@@ -1,0 +1,3 @@
+[XmlValidator] Cannot create busstop at a position that is not an integer or that is signed (position: -10).
+[XmlValidator] Cannot create busstop with a halt time that is not an integer or that is signed (haltTime: -10).
+[XmlValidator] Cannot create busstop at a position that is outside the road (road length: 100; position: 1000).

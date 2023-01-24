@@ -1,0 +1,7 @@
+[XmlValidator] Attribute 'naam' is already set and cannot be set again for type 'road'.
+[XmlValidator] Attribute 'lengte' is already set and cannot be set again for type 'road'.
+[XmlValidator] Attribute 'baan' is already set and cannot be set again for type 'light'.
+[XmlValidator] Attribute 'positie' is already set and cannot be set again for type 'vehicle'.
+[XmlValidator] Attribute 'frequentie' is already set and cannot be set again for type 'vehicleGenerator'.
+[XmlValidator] Attribute 'baan' is already set and cannot be set again for type 'busstop'.
+[XmlValidator] Attribute 'wachttijd' is already set and cannot be set again for type 'busstop'.

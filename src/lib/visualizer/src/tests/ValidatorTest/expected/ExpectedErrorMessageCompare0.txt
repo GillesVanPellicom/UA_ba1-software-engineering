@@ -1,0 +1,18 @@
+[XmlValidator] road length is not a valid unsigned integer (length: a).
+[XmlValidator] road length is not a valid unsigned integer (length: a10).
+[XmlValidator] road length is not a valid unsigned integer (length: 10a).
+[XmlValidator] road length is not a valid unsigned integer (length: -1).
+[XmlValidator] road length is not a valid unsigned integer (length: 0).
+[XmlValidator] Cannot create light at a position that is not an integer or that is signed (position: a).
+[XmlValidator] Cannot create light with a cycle time that is not an integer or that is signed (cycleTime: c).
+[XmlValidator] Cannot create light at a position that is not an integer or that is signed (position: -1).
+[XmlValidator] Cannot create light with a cycle time that is not an integer or that is signed (cycleTime: -1).
+[XmlValidator] Cannot create light on road that does not exist or that is not valid: on 'test0' at position 1.
+[XmlValidator] Cannot create light at a position that is outside the road (road length: 1000; position: 1010).
+[XmlValidator] Cannot create vehicle at a position that is not an integer or that is signed (position: c).
+[XmlValidator] Cannot create vehicle at a position that is not an integer or that is signed (position: -1).
+[XmlValidator] Cannot create vehicle at a position that is outside the road (road length: 1000; position: 1001).
+[XmlValidator] Cannot create vehicle on road that does not exist or that is not valid: on 'test0' at 1.
+[XmlValidator] Cannot create vehicleGenerator on road that does not exist or that is not valid: on 'test0'.
+[XmlValidator] Cannot create vehicleGenerator with a frequency that is not an integer or that is less or equal to zero (frequency: 0).
+[XmlValidator] Cannot create vehicleGenerator with a frequency that is not an integer or that is less or equal to zero (frequency: -1).

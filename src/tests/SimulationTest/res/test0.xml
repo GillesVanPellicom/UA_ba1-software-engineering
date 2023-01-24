@@ -1,0 +1,18 @@
+<ROOT>
+    <VOERTUIG>
+        <baan>Corner Street</baan>
+        <positie>200</positie>
+        <type>auto</type>
+    </VOERTUIG>
+
+    <BAAN>
+        <naam>Corner Street</naam>
+        <lengte>1000</lengte>
+    </BAAN>
+
+    <VERKEERSLICHT>
+        <baan>Corner Street</baan>
+        <positie>500</positie>
+        <cyclus>40</cyclus>
+    </VERKEERSLICHT>
+</ROOT>

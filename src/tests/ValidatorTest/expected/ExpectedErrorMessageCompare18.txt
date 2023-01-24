@@ -1,0 +1,3 @@
+[XmlValidator] Cannot create light on a crossroad with a cycle time that is not an integer or that is signed (cycleTime: -2).
+[XmlValidator] Cannot create light attached to crossroad at a position that is inside the brake distance of another light (newPosition: 99; otherPosition: 104; MinDistance: 50).
+[XmlValidator] Cannot create light attached to crossroad at a position that is inside the brake distance of another light (newPosition: 99; otherPosition: 104; MinDistance: 50).

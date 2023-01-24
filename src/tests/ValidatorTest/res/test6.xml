@@ -1,0 +1,11 @@
+<ROOT>
+    <BAAN>
+        <naam>test</naam>
+        <lengte>20</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>test</naam>
+        <lengte>40</lengte>
+    </BAAN>
+</ROOT>

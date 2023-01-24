@@ -1,0 +1,15 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>100</lengte>
+    </BAAN>
+
+    <BUSHALTE>
+        <baan>test0</baan>      <!-- required attribute position and haltTime is not set -->
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <positie>10</positie>       <!-- required attribute roadName is not set -->
+        <wachttijd>20</wachttijd>
+    </BUSHALTE>
+</ROOT>

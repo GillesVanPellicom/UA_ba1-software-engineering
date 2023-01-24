@@ -1,0 +1,31 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>200</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>test1</naam>
+        <lengte>300</lengte>
+    </BAAN>
+
+    <KRUISPUNT></KRUISPUNT>         <!-- not enough roads given -->
+
+    <KRUISPUNT>
+        <baan positie="100">test0</baan>        <!-- not enough roads given -->
+    </KRUISPUNT>
+
+    <KRUISPUNT>
+        <baan positie="100">test1</baan>
+        <baan positie="50">test0</baan>
+        <baan positie="100">test1</baan>        <!-- too many roads given -->
+    </KRUISPUNT>
+
+    <KRUISPUNT>
+        <foo></foo>             <!-- foo is not an allowed attribute for crossroad -->
+    </KRUISPUNT>
+
+    <KRUISPUNT>
+        <baan test=""></baan>       <!-- test is not an allowed attribute for road -->
+    </KRUISPUNT>
+</ROOT>

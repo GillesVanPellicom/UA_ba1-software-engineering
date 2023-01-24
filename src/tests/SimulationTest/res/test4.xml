@@ -1,0 +1,47 @@
+<ROOT>
+    <BAAN>
+        <naam>Geen Inspiratie Weg</naam>
+        <lengte>400</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>Tis Echt Op</naam>
+        <lengte>500</lengte>
+    </BAAN>
+
+    <VOERTUIG>
+        <baan>Tis Echt Op</baan>
+        <positie>40</positie>
+        <type>bus</type>
+    </VOERTUIG>
+
+    <VOERTUIGGENERATOR>
+        <baan>Geen Inspiratie Weg</baan>
+        <frequentie>3</frequentie>
+        <type>ziekenwagen</type>
+    </VOERTUIGGENERATOR>
+
+    <VERKEERSLICHT>
+        <baan>Tis Echt Op</baan>
+        <positie>100</positie>
+        <cyclus>1</cyclus>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <baan>Tis Echt Op</baan>
+        <positie>300</positie>
+        <cyclus>1</cyclus>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <baan>Geen Inspiratie Weg</baan>
+        <positie>200</positie>
+        <cyclus>1</cyclus>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <baan>Geen Inspiratie Weg</baan>
+        <positie>100</positie>
+        <cyclus>1</cyclus>
+    </VERKEERSLICHT>
+</ROOT>

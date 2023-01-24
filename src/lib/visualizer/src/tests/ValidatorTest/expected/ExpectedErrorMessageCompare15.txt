@@ -1,0 +1,1 @@
+[XmlValidator] Cannot create CrossRoad with duplicate roads. (roadName: test0)

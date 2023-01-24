@@ -1,0 +1,156 @@
+<ROOT>
+
+    <BAAN>
+        <naam>Puursesteenweg</naam>
+        <lengte>549</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>Driesstraat</naam>
+        <lengte>150</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>N16</naam>
+        <lengte>300</lengte>
+    </BAAN>
+
+    <KRUISPUNT>
+        <baan positie="130">N16</baan>
+        <baan positie="20">Driesstraat</baan>
+    </KRUISPUNT>
+
+    <VERKEERSLICHT>
+        <baan>N16</baan>
+        <positie>90</positie>
+        <cyclus>7</cyclus>
+    </VERKEERSLICHT>
+    <VERKEERSLICHT>
+        <baan>N16</baan>
+        <positie>240</positie>
+        <cyclus>10</cyclus>
+    </VERKEERSLICHT>
+
+    <VOERTUIGGENERATOR>
+        <baan>N16</baan>
+        <frequentie>3</frequentie>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>N16</baan>
+        <frequentie>8</frequentie>
+        <type>bus</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>N16</baan>
+        <frequentie>8</frequentie>
+        <type>politiecombi</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>N16</baan>
+        <frequentie>9</frequentie>
+        <type>ziekenwagen</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>N16</baan>
+        <frequentie>8</frequentie>
+        <type>brandweerwagen</type>
+    </VOERTUIGGENERATOR>
+
+    <BUSHALTE>
+        <baan>N16</baan>
+        <positie>30</positie>
+        <wachttijd>7</wachttijd>
+    </BUSHALTE>
+    <BUSHALTE>
+        <baan>N16</baan>
+        <positie>200</positie>
+        <wachttijd>5</wachttijd>
+    </BUSHALTE>
+
+
+    <KRUISPUNT>
+        <baan positie="170">N16</baan>
+        <baan positie="430">Puursesteenweg</baan>
+    </KRUISPUNT>
+    <VERKEERSLICHT>
+        <baan>Puursesteenweg</baan>
+        <positie>70</positie>
+        <cyclus>20</cyclus>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <baan>Puursesteenweg</baan>
+        <positie>160</positie>
+        <cyclus>20</cyclus>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <baan>Puursesteenweg</baan>
+        <positie>326</positie>
+        <cyclus>20</cyclus>
+    </VERKEERSLICHT>
+    <BUSHALTE>
+        <baan>Puursesteenweg</baan>
+        <positie>493</positie>
+        <wachttijd>7</wachttijd>
+    </BUSHALTE>
+    <BUSHALTE>
+        <baan>Puursesteenweg</baan>
+        <positie>150</positie>
+        <wachttijd>5</wachttijd>
+    </BUSHALTE>
+    <BUSHALTE>
+        <baan>Puursesteenweg</baan>
+        <positie>30</positie>
+        <wachttijd>7</wachttijd>
+    </BUSHALTE>
+    <BUSHALTE>
+        <baan>Puursesteenweg</baan>
+        <positie>320</positie>
+        <wachttijd>5</wachttijd>
+    </BUSHALTE>
+    <VOERTUIGGENERATOR>
+        <baan>N16</baan>
+        <frequentie>4</frequentie>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>N16</baan>
+        <frequentie>9</frequentie>
+        <type>bus</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>N16</baan>
+        <frequentie>10</frequentie>
+        <type>politiecombi</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>Driesstraat</baan>
+        <frequentie>7</frequentie>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+    <VOERTUIGGENERATOR>
+        <baan>N16</baan>
+        <frequentie>7</frequentie>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+    <VOERTUIGGENERATOR>
+        <baan>Puursesteenweg</baan>
+        <frequentie>7</frequentie>
+        <type>bus</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>Puursesteenweg</baan>
+        <frequentie>11</frequentie>
+        <type>politiecombi</type>
+    </VOERTUIGGENERATOR>
+</ROOT>

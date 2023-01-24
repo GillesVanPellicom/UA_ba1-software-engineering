@@ -1,0 +1,25 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>100</lengte>
+    </BAAN>
+    <BAAN>
+        <naam>test1</naam>
+        <lengte>200</lengte>
+    </BAAN>
+    <VOERTUIGGENERATOR>
+        <baan>test0</baan>
+        <frequentie>4</frequentie>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+    <VOERTUIGGENERATOR>
+        <baan>test1</baan>
+        <frequentie>4</frequentie>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+    <KRUISPUNT>
+        <baan positie="30">test0</baan>
+        <baan positie="20">test1</baan>
+        <lichten>20</lichten>
+    </KRUISPUNT>
+</ROOT>

@@ -1,0 +1,2 @@
+[XmlValidator] Cannot create vehicle of type: 'foo'. Allowed types are: 'auto', 'bus', 'brandweerwagen', 'ziekenwagen', 'politiecombi'.
+[XmlValidator] Cannot create vehicle of type: 'bla'. Allowed types are: 'auto', 'bus', 'brandweerwagen', 'ziekenwagen', 'politiecombi'.

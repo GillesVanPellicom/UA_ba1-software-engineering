@@ -1,0 +1,54 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>100</lengte>
+    </BAAN>
+    <BAAN>
+        <naam>test1</naam>
+        <lengte>200</lengte>
+    </BAAN>
+
+    <VOERTUIGGENERATOR>
+        <baan>test0</baan>
+        <frequentie>3</frequentie>
+        <type>bus</type> 
+     </VOERTUIGGENERATOR>
+     <VOERTUIGGENERATOR>
+        <baan>test0</baan>
+        <frequentie>1</frequentie>
+        <type>auto</type> 
+     </VOERTUIGGENERATOR>
+     <VOERTUIGGENERATOR>
+        <baan>test1</baan>
+        <frequentie>1</frequentie>
+        <type>bus</type> 
+     </VOERTUIGGENERATOR>
+
+    <BUSHALTE>
+        <baan>test1</baan>   
+        <positie>100</positie>  
+        <wachttijd>5</wachttijd>  
+    </BUSHALTE>
+    <BUSHALTE>
+        <baan>test0</baan>
+        <positie>50</positie>
+        <wachttijd>10</wachttijd>
+    </BUSHALTE>
+
+    <VERKEERSLICHT>
+        <baan>test0</baan>
+        <positie>70</positie>      
+        <cyclus>19</cyclus>
+    </VERKEERSLICHT>
+    <VERKEERSLICHT>
+        <baan>test0</baan>
+        <positie>20</positie>      
+        <cyclus>10</cyclus>
+    </VERKEERSLICHT>
+    <VERKEERSLICHT>
+        <baan>test1</baan>
+        <positie>70</positie>      
+        <cyclus>20</cyclus>
+    </VERKEERSLICHT>
+    
+</ROOT>

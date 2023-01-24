@@ -1,0 +1,24 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>100</lengte>
+    </BAAN>
+
+    <VERKEERSLICHT>
+        <baan>test0</baan>
+        <positie>10</positie>
+        <cyclus>10</cyclus>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <baan>test0</baan>
+        <positie>20</positie>
+        <cyclus>10</cyclus>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <baan>test0</baan>
+        <positie>30</positie>
+        <cyclus>10</cyclus>
+    </VERKEERSLICHT>
+</ROOT>

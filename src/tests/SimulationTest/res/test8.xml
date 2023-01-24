@@ -1,0 +1,36 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>300</lengte>
+    </BAAN>
+
+    <VERKEERSLICHT>
+        <baan>test0</baan>
+        <positie>100</positie>
+        <cyclus>10</cyclus>
+    </VERKEERSLICHT>
+
+    <VOERTUIGGENERATOR>
+        <baan>test0</baan>
+        <frequentie>10</frequentie>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>test0</baan>
+        <frequentie>5</frequentie>
+        <type>politiecombi</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>test0</baan>
+        <frequentie>4</frequentie>
+        <type>ziekenwagen</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>test0</baan>
+        <frequentie>3</frequentie>
+        <type>brandweerwagen</type>
+    </VOERTUIGGENERATOR>
+</ROOT>

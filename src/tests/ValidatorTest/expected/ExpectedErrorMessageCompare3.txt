@@ -1,0 +1,2 @@
+[XmlValidator] Attribute 'foo' is not known for object type 'vehicleGenerator'.
+[XmlValidator] Not all required attributes for type 'vehicleGenerator' are set (required: baan, frequentie, type).

@@ -1,0 +1,1 @@
+[XmlValidator] Attribute 'foo' is not known for object type 'busstop'.

@@ -1,0 +1,64 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>200</lengte>
+    </BAAN>
+
+    <VOERTUIG>
+        <baan>test0</baan>
+        <positie>0</positie>
+        <type>auto</type>
+    </VOERTUIG>
+    <VOERTUIG>
+        <baan>test0</baan>
+        <positie>0</positie>
+        <type>bus</type>
+    </VOERTUIG>
+    <VOERTUIG>
+        <baan>test0</baan>
+        <positie>0</positie>
+        <type>brandweerwagen</type>
+    </VOERTUIG>
+    <VOERTUIG>
+        <baan>test0</baan>
+        <positie>0</positie>
+        <type>ziekenwagen</type>
+    </VOERTUIG>
+    <VOERTUIG>
+        <baan>test0</baan>
+        <positie>0</positie>
+        <type>politiecombi</type>
+    </VOERTUIG>
+
+    <VOERTUIGGENERATOR>
+        <baan>test0</baan>
+        <frequentie>10</frequentie>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+    <VOERTUIGGENERATOR>
+       <baan>test0</baan>
+       <frequentie>1</frequentie>
+       <type>bus</type> 
+    </VOERTUIGGENERATOR>
+    <VOERTUIGGENERATOR>
+        <baan>test0</baan>
+        <frequentie>10</frequentie>
+        <type>brandweerwagen</type>
+    </VOERTUIGGENERATOR>
+    <VOERTUIGGENERATOR>
+        <baan>test0</baan>
+        <frequentie>10</frequentie>
+        <type>ziekenwagen</type>
+    </VOERTUIGGENERATOR>
+    <VOERTUIGGENERATOR>
+        <baan>test0</baan>
+        <frequentie>10</frequentie>
+        <type>politiecombi</type>
+    </VOERTUIGGENERATOR>
+
+    <VERKEERSLICHT>
+        <baan>test0</baan>
+        <cyclus>10</cyclus>
+        <positie>10</positie>
+    </VERKEERSLICHT>
+</ROOT>

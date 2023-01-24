@@ -1,0 +1,18 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>100</lengte>
+    </BAAN>
+
+    <BUSHALTE>
+        <baan>test0</baan>
+        <positie>20</positie>
+        <wachttijd>100</wachttijd>
+    </BUSHALTE>
+    
+    <BUSHALTE>
+        <baan>test0</baan>
+        <positie>40</positie>
+        <wachttijd>10</wachttijd>
+    </BUSHALTE>
+</ROOT>

@@ -1,0 +1,12 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>100</lengte>
+    </BAAN>
+
+    <BUSHALTE>
+        <baan>test0</baan>
+        <positie>10</positie>
+        <foo>test</foo>         <!-- foo is not a valid attribute -->
+    </BUSHALTE>
+</ROOT>

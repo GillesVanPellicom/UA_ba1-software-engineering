@@ -1,0 +1,7 @@
+[XmlValidator] CrossRoad object requires two roads, currently has '0' roads.
+[XmlValidator] CrossRoad object requires two roads, currently has '1' roads.
+[XmlValidator] CrossRoad object requires two roads, currently has '3' roads.
+[XmlValidator] CrossRoad object requires two roads, not: 'foo'.
+[XmlValidator] CrossRoad object requires two roads, currently has '0' roads.
+[XmlValidator] CrossRoad objects requires two roads with a position as attribute, not: 'test' as attribute.
+[XmlValidator] CrossRoad object requires two roads, currently has '1' roads.

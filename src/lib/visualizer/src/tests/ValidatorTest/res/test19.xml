@@ -1,0 +1,16 @@
+<ROOT>
+    <BAAN>
+        <naam>road1</naam>
+        <lengte>400</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>road2</naam>
+        <lengte>500</lengte>
+    </BAAN>
+
+    <KRUISPUNT>
+        <baan positie="200">road1</baan>
+        <baan positie="300">road2</baan>
+    </KRUISPUNT>
+</ROOT>

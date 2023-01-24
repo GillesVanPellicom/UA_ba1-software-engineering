@@ -1,0 +1,47 @@
+<ROOT>
+    <BAAN>
+        <naam>Diagon alley</naam>
+        <lengte>3020</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>Vertic alley</naam>
+        <lengte>5202</lengte>
+    </BAAN>
+
+    <VOERTUIG>
+        <baan>Diagon alley</baan>
+        <positie>816</positie>
+        <type>auto</type>
+    </VOERTUIG>
+
+    <VOERTUIG>
+        <baan>Diagon alley</baan>
+        <positie>11</positie>
+        <type>auto</type>
+    </VOERTUIG>
+
+    <VOERTUIG>
+        <baan>Vertic alley</baan>
+        <positie>43</positie>
+        <type>auto</type>
+    </VOERTUIG>
+
+    <VOERTUIGGENERATOR>
+        <baan>Diagon alley</baan>
+        <frequentie>2</frequentie>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+
+    <VERKEERSLICHT>
+        <baan>Diagon alley</baan>
+        <positie>10</positie>
+        <cyclus>5</cyclus>
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <baan>Vertic alley</baan>
+        <positie>30</positie>
+        <cyclus>39</cyclus>
+    </VERKEERSLICHT>
+</ROOT>

@@ -1,0 +1,2 @@
+[XmlValidator] Not all required attributes for type 'busstop' are set (required: baan, positie, wachttijd).
+[XmlValidator] Not all required attributes for type 'busstop' are set (required: baan, positie, wachttijd).

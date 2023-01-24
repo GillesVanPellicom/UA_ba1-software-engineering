@@ -1,0 +1,19 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>100</lengte>
+    </BAAN>
+    <BAAN>
+        <naam>test1</naam>
+        <lengte>200</lengte>
+    </BAAN>
+    <VOERTUIG>
+        <baan>test0</baan>
+        <positie>10</positie>
+        <type>auto</type>
+    </VOERTUIG>
+    <KRUISPUNT>
+        <baan positie="30">test0</baan>
+        <baan positie="20">test1</baan>
+    </KRUISPUNT>
+</ROOT>

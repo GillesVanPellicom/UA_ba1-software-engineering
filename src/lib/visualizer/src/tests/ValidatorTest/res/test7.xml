@@ -1,0 +1,17 @@
+<ROOT>
+    <BAAN>
+        <naam>test</naam>
+        <lengte>20</lengte>
+    </BAAN>
+
+    <VOERTUIG>
+        <baan>test</baan>
+        <positie>0</positie>
+        <foo>bla</foo>
+    </VOERTUIG>
+
+    <VOERTUIG>
+        <baan>test</baan>
+        <positie>0</positie>
+    </VOERTUIG>
+</ROOT>

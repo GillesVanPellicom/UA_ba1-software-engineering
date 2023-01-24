@@ -1,0 +1,9 @@
+<ROOT>
+    <VOERTUIGGENERATOR>
+        <foo>test</foo>     <!-- foo is not an allowed attribute -->
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>Middelheimlaan</baan>     <!-- not all attributes are set -->
+    </VOERTUIGGENERATOR>
+</ROOT>

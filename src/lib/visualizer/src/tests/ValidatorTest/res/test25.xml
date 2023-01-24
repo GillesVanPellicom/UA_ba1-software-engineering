@@ -1,0 +1,54 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>1000</lengte>
+    </BAAN>
+    <BAAN>
+        <naam>test1</naam>
+        <lengte>500</lengte>
+    </BAAN>
+
+    <KRUISPUNT>
+        <baan positie="100">test0</baan>
+        <baan positie="300">test1</baan>
+        <lichten>-2</lichten> <!-- negative cycle time NOTE: -1 is seen as no lights-->
+    </KRUISPUNT>
+
+    <BAAN>
+        <naam>test2</naam>
+        <lengte>1000</lengte>
+    </BAAN>
+    <BAAN>
+        <naam>test3</naam>
+        <lengte>500</lengte>
+    </BAAN>
+    <VERKEERSLICHT>
+        <baan>test2</baan>
+        <positie>104</positie>
+        <cyclus>20</cyclus>
+    </VERKEERSLICHT>
+    <KRUISPUNT>
+        <baan positie="100">test2</baan>
+        <baan positie="100">test3</baan>
+        <lichten>20</lichten> <!-- lights inside the brake distance -->
+    </KRUISPUNT>
+
+    <BAAN>
+        <naam>test4</naam>
+        <lengte>1000</lengte>
+    </BAAN>
+    <BAAN>
+        <naam>test5</naam>
+        <lengte>500</lengte>
+    </BAAN>
+    <VERKEERSLICHT>
+        <baan>test5</baan>
+        <positie>104</positie>
+        <cyclus>20</cyclus>
+    </VERKEERSLICHT>
+    <KRUISPUNT>
+        <baan positie="100">test4</baan>
+        <baan positie="100">test5</baan>
+        <lichten>20</lichten> <!-- lights inside the brake distance -->
+    </KRUISPUNT>
+</ROOT>

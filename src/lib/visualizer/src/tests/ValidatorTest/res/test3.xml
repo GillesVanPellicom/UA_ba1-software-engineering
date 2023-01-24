@@ -1,0 +1,45 @@
+<ROOT>
+    <FOO>       <!-- object foo does not exist -->
+    </FOO>
+
+    <VOERTUIG>
+        <falseattribute>foo</falseattribute>    <!-- not an allowed attribute for vehicle object -->
+    </VOERTUIG>
+
+    <VOERTUIG>
+        <baan>Middelheimlaan</baan>     <!-- attribute position is not set -->
+        <type>auto</type>
+    </VOERTUIG>
+
+    <VERKEERSLICHT>
+        <pos>foo</pos>      <!-- pos is not a valid attribute for light object -->
+    </VERKEERSLICHT>
+
+    <VERKEERSLICHT>
+        <positie>100</positie>      <!-- attribute road is not set -->
+        <cyclus>30</cyclus>
+    </VERKEERSLICHT>
+
+    <BAAN>
+        <name>foo</name>    <!-- name is not a valid attribute for object road -->
+    </BAAN>
+
+    <BAAN>
+        <naam>Middelheimlaan</naam>     <!-- attribute length is not set -->
+    </BAAN>
+
+    <VOERTUIG>
+        <foo>foo</foo>      <!-- foo and bla are not allowed attributes for vehicle object -->
+        <bla>bla</bla>
+    </VOERTUIG>
+
+    <VERKEERSLICHT>
+        <baan>Middelheimlaan</baan>     <!-- attribute cycle and position are not set -->
+    </VERKEERSLICHT>
+
+    <BAAN>
+        <name>test</name>       <!-- attributes are not valid for type road -->
+        <nom>foo</nom>
+        <phi>ma</phi>
+    </BAAN>
+</ROOT>

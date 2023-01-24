@@ -1,0 +1,4945 @@
+Time: 0.0166667s
+Vehicle 1
+--> road: test0
+--> position: 10
+--> speed: 0
+
+Time: 0.0333333s
+Vehicle 1
+--> road: test0
+--> position: 10.0006
+--> speed: 0.024
+
+Time: 0.05s
+Vehicle 1
+--> road: test0
+--> position: 10.0016
+--> speed: 0.048
+
+Time: 0.0666667s
+Vehicle 1
+--> road: test0
+--> position: 10.003
+--> speed: 0.072
+
+Time: 0.0833333s
+Vehicle 1
+--> road: test0
+--> position: 10.0048
+--> speed: 0.096
+
+Time: 0.1s
+Vehicle 1
+--> road: test0
+--> position: 10.007
+--> speed: 0.12
+
+Time: 0.116667s
+Vehicle 1
+--> road: test0
+--> position: 10.0096
+--> speed: 0.144
+
+Time: 0.133333s
+Vehicle 1
+--> road: test0
+--> position: 10.0126
+--> speed: 0.168
+
+Time: 0.15s
+Vehicle 1
+--> road: test0
+--> position: 10.016
+--> speed: 0.192
+
+Time: 0.166667s
+Vehicle 1
+--> road: test0
+--> position: 10.0198
+--> speed: 0.216
+
+Time: 0.183333s
+Vehicle 1
+--> road: test0
+--> position: 10.024
+--> speed: 0.24
+
+Time: 0.2s
+Vehicle 1
+--> road: test0
+--> position: 10.0286
+--> speed: 0.264
+
+Time: 0.216667s
+Vehicle 1
+--> road: test0
+--> position: 10.0336
+--> speed: 0.288
+
+Time: 0.233333s
+Vehicle 1
+--> road: test0
+--> position: 10.039
+--> speed: 0.312
+
+Time: 0.25s
+Vehicle 1
+--> road: test0
+--> position: 10.0448
+--> speed: 0.336
+
+Time: 0.266667s
+Vehicle 1
+--> road: test0
+--> position: 10.051
+--> speed: 0.36
+
+Time: 0.283333s
+Vehicle 1
+--> road: test0
+--> position: 10.0576
+--> speed: 0.384
+
+Time: 0.3s
+Vehicle 1
+--> road: test0
+--> position: 10.0646
+--> speed: 0.408
+
+Time: 0.316667s
+Vehicle 1
+--> road: test0
+--> position: 10.072
+--> speed: 0.432
+
+Time: 0.333333s
+Vehicle 1
+--> road: test0
+--> position: 10.0798
+--> speed: 0.456
+
+Time: 0.35s
+Vehicle 1
+--> road: test0
+--> position: 10.088
+--> speed: 0.48
+
+Time: 0.366667s
+Vehicle 1
+--> road: test0
+--> position: 10.0966
+--> speed: 0.504
+
+Time: 0.383333s
+Vehicle 1
+--> road: test0
+--> position: 10.1056
+--> speed: 0.528
+
+Time: 0.4s
+Vehicle 1
+--> road: test0
+--> position: 10.115
+--> speed: 0.552
+
+Time: 0.416667s
+Vehicle 1
+--> road: test0
+--> position: 10.1248
+--> speed: 0.576
+
+Time: 0.433333s
+Vehicle 1
+--> road: test0
+--> position: 10.135
+--> speed: 0.6
+
+Time: 0.45s
+Vehicle 1
+--> road: test0
+--> position: 10.1456
+--> speed: 0.624
+
+Time: 0.466667s
+Vehicle 1
+--> road: test0
+--> position: 10.1566
+--> speed: 0.648
+
+Time: 0.483333s
+Vehicle 1
+--> road: test0
+--> position: 10.168
+--> speed: 0.672
+
+Time: 0.5s
+Vehicle 1
+--> road: test0
+--> position: 10.1798
+--> speed: 0.696
+
+Time: 0.516667s
+Vehicle 1
+--> road: test0
+--> position: 10.192
+--> speed: 0.72
+
+Time: 0.533333s
+Vehicle 1
+--> road: test0
+--> position: 10.2046
+--> speed: 0.743999
+
+Time: 0.55s
+Vehicle 1
+--> road: test0
+--> position: 10.2176
+--> speed: 0.767999
+
+Time: 0.566667s
+Vehicle 1
+--> road: test0
+--> position: 10.231
+--> speed: 0.791999
+
+Time: 0.583333s
+Vehicle 1
+--> road: test0
+--> position: 10.2448
+--> speed: 0.815999
+
+Time: 0.6s
+Vehicle 1
+--> road: test0
+--> position: 10.259
+--> speed: 0.839999
+
+Time: 0.616667s
+Vehicle 1
+--> road: test0
+--> position: 10.2736
+--> speed: 0.863999
+
+Time: 0.633333s
+Vehicle 1
+--> road: test0
+--> position: 10.2886
+--> speed: 0.887999
+
+Time: 0.65s
+Vehicle 1
+--> road: test0
+--> position: 10.304
+--> speed: 0.911998
+
+Time: 0.666667s
+Vehicle 1
+--> road: test0
+--> position: 10.3198
+--> speed: 0.935998
+
+Time: 0.683333s
+Vehicle 1
+--> road: test0
+--> position: 10.336
+--> speed: 0.959998
+
+Time: 0.7s
+Vehicle 1
+--> road: test0
+--> position: 10.3526
+--> speed: 0.983998
+
+Time: 0.716667s
+Vehicle 1
+--> road: test0
+--> position: 10.3696
+--> speed: 1.008
+
+Time: 0.733333s
+Vehicle 1
+--> road: test0
+--> position: 10.387
+--> speed: 1.032
+
+Time: 0.75s
+Vehicle 1
+--> road: test0
+--> position: 10.4048
+--> speed: 1.056
+
+Time: 0.766667s
+Vehicle 1
+--> road: test0
+--> position: 10.423
+--> speed: 1.08
+
+Time: 0.783333s
+Vehicle 1
+--> road: test0
+--> position: 10.4416
+--> speed: 1.104
+
+Time: 0.8s
+Vehicle 1
+--> road: test0
+--> position: 10.4606
+--> speed: 1.128
+
+Time: 0.816667s
+Vehicle 1
+--> road: test0
+--> position: 10.48
+--> speed: 1.15199
+
+Time: 0.833333s
+Vehicle 1
+--> road: test0
+--> position: 10.4998
+--> speed: 1.17599
+
+Time: 0.85s
+Vehicle 1
+--> road: test0
+--> position: 10.52
+--> speed: 1.19999
+
+Time: 0.866667s
+Vehicle 1
+--> road: test0
+--> position: 10.5406
+--> speed: 1.22399
+
+Time: 0.883333s
+Vehicle 1
+--> road: test0
+--> position: 10.5616
+--> speed: 1.24799
+
+Time: 0.9s
+Vehicle 1
+--> road: test0
+--> position: 10.583
+--> speed: 1.27199
+
+Time: 0.916667s
+Vehicle 1
+--> road: test0
+--> position: 10.6048
+--> speed: 1.29599
+
+Time: 0.933333s
+Vehicle 1
+--> road: test0
+--> position: 10.627
+--> speed: 1.31999
+
+Time: 0.95s
+Vehicle 1
+--> road: test0
+--> position: 10.6496
+--> speed: 1.34399
+
+Time: 0.966667s
+Vehicle 1
+--> road: test0
+--> position: 10.6726
+--> speed: 1.36799
+
+Time: 0.983333s
+Vehicle 1
+--> road: test0
+--> position: 10.696
+--> speed: 1.39199
+
+Time: 1s
+Vehicle 1
+--> road: test0
+--> position: 10.7198
+--> speed: 1.41599
+
+Time: 1.01667s
+Vehicle 1
+--> road: test0
+--> position: 10.744
+--> speed: 1.43998
+
+Time: 1.03333s
+Vehicle 1
+--> road: test0
+--> position: 10.7686
+--> speed: 1.46398
+
+Time: 1.05s
+Vehicle 1
+--> road: test0
+--> position: 10.7936
+--> speed: 1.48798
+
+Time: 1.06667s
+Vehicle 1
+--> road: test0
+--> position: 10.819
+--> speed: 1.51198
+
+Time: 1.08333s
+Vehicle 1
+--> road: test0
+--> position: 10.8448
+--> speed: 1.53598
+
+Time: 1.1s
+Vehicle 1
+--> road: test0
+--> position: 10.871
+--> speed: 1.55998
+
+Time: 1.11667s
+Vehicle 1
+--> road: test0
+--> position: 10.8976
+--> speed: 1.58397
+
+Time: 1.13333s
+Vehicle 1
+--> road: test0
+--> position: 10.9246
+--> speed: 1.60797
+
+Time: 1.15s
+Vehicle 1
+--> road: test0
+--> position: 10.952
+--> speed: 1.63197
+
+Time: 1.16667s
+Vehicle 1
+--> road: test0
+--> position: 10.9798
+--> speed: 1.65597
+
+Time: 1.18333s
+Vehicle 1
+--> road: test0
+--> position: 11.008
+--> speed: 1.67997
+
+Time: 1.2s
+Vehicle 1
+--> road: test0
+--> position: 11.0366
+--> speed: 1.70396
+
+Time: 1.21667s
+Vehicle 1
+--> road: test0
+--> position: 11.0656
+--> speed: 1.72796
+
+Time: 1.23333s
+Vehicle 1
+--> road: test0
+--> position: 11.095
+--> speed: 1.75196
+
+Time: 1.25s
+Vehicle 1
+--> road: test0
+--> position: 11.1248
+--> speed: 1.77596
+
+Time: 1.26667s
+Vehicle 1
+--> road: test0
+--> position: 11.155
+--> speed: 1.79995
+
+Time: 1.28333s
+Vehicle 1
+--> road: test0
+--> position: 11.1856
+--> speed: 1.82395
+
+Time: 1.3s
+Vehicle 1
+--> road: test0
+--> position: 11.2166
+--> speed: 1.84795
+
+Time: 1.31667s
+Vehicle 1
+--> road: test0
+--> position: 11.248
+--> speed: 1.87194
+
+Time: 1.33333s
+Vehicle 1
+--> road: test0
+--> position: 11.2798
+--> speed: 1.89594
+
+Time: 1.35s
+Vehicle 1
+--> road: test0
+--> position: 11.312
+--> speed: 1.91993
+
+Time: 1.36667s
+Vehicle 1
+--> road: test0
+--> position: 11.3446
+--> speed: 1.94393
+
+Time: 1.38333s
+Vehicle 1
+--> road: test0
+--> position: 11.3776
+--> speed: 1.96792
+
+Time: 1.4s
+Vehicle 1
+--> road: test0
+--> position: 11.411
+--> speed: 1.99192
+
+Time: 1.41667s
+Vehicle 1
+--> road: test0
+--> position: 11.4448
+--> speed: 2.01591
+
+Time: 1.43333s
+Vehicle 1
+--> road: test0
+--> position: 11.479
+--> speed: 2.03991
+
+Time: 1.45s
+Vehicle 1
+--> road: test0
+--> position: 11.5136
+--> speed: 2.0639
+
+Time: 1.46667s
+Vehicle 1
+--> road: test0
+--> position: 11.5486
+--> speed: 2.0879
+
+Time: 1.48333s
+Vehicle 1
+--> road: test0
+--> position: 11.584
+--> speed: 2.11189
+
+Time: 1.5s
+Vehicle 1
+--> road: test0
+--> position: 11.6198
+--> speed: 2.13589
+
+Time: 1.51667s
+Vehicle 1
+--> road: test0
+--> position: 11.656
+--> speed: 2.15988
+
+Time: 1.53333s
+Vehicle 1
+--> road: test0
+--> position: 11.6926
+--> speed: 2.18387
+
+Time: 1.55s
+Vehicle 1
+--> road: test0
+--> position: 11.7296
+--> speed: 2.20787
+
+Time: 1.56667s
+Vehicle 1
+--> road: test0
+--> position: 11.767
+--> speed: 2.23186
+
+Time: 1.58333s
+Vehicle 1
+--> road: test0
+--> position: 11.8048
+--> speed: 2.25585
+
+Time: 1.6s
+Vehicle 1
+--> road: test0
+--> position: 11.843
+--> speed: 2.27984
+
+Time: 1.61667s
+Vehicle 1
+--> road: test0
+--> position: 11.8816
+--> speed: 2.30383
+
+Time: 1.63333s
+Vehicle 1
+--> road: test0
+--> position: 11.9206
+--> speed: 2.32782
+
+Time: 1.65s
+Vehicle 1
+--> road: test0
+--> position: 11.9599
+--> speed: 2.35182
+
+Time: 1.66667s
+Vehicle 1
+--> road: test0
+--> position: 11.9997
+--> speed: 2.37581
+
+Time: 1.68333s
+Vehicle 1
+--> road: test0
+--> position: 12.0399
+--> speed: 2.3998
+
+Time: 1.7s
+Vehicle 1
+--> road: test0
+--> position: 12.0805
+--> speed: 2.42379
+
+Time: 1.71667s
+Vehicle 1
+--> road: test0
+--> position: 12.1215
+--> speed: 2.44777
+
+Time: 1.73333s
+Vehicle 1
+--> road: test0
+--> position: 12.1629
+--> speed: 2.47176
+
+Time: 1.75s
+Vehicle 1
+--> road: test0
+--> position: 12.2047
+--> speed: 2.49575
+
+Time: 1.76667s
+Vehicle 1
+--> road: test0
+--> position: 12.2469
+--> speed: 2.51974
+
+Time: 1.78333s
+Vehicle 1
+--> road: test0
+--> position: 12.2895
+--> speed: 2.54373
+
+Time: 1.8s
+Vehicle 1
+--> road: test0
+--> position: 12.3325
+--> speed: 2.56771
+
+Time: 1.81667s
+Vehicle 1
+--> road: test0
+--> position: 12.3759
+--> speed: 2.5917
+
+Time: 1.83333s
+Vehicle 1
+--> road: test0
+--> position: 12.4197
+--> speed: 2.61568
+
+Time: 1.85s
+Vehicle 1
+--> road: test0
+--> position: 12.4639
+--> speed: 2.63967
+
+Time: 1.86667s
+Vehicle 1
+--> road: test0
+--> position: 12.5085
+--> speed: 2.66365
+
+Time: 1.88333s
+Vehicle 1
+--> road: test0
+--> position: 12.5535
+--> speed: 2.68764
+
+Time: 1.9s
+Vehicle 1
+--> road: test0
+--> position: 12.5989
+--> speed: 2.71162
+
+Time: 1.91667s
+Vehicle 1
+--> road: test0
+--> position: 12.6447
+--> speed: 2.73561
+
+Time: 1.93333s
+Vehicle 1
+--> road: test0
+--> position: 12.6909
+--> speed: 2.75959
+
+Time: 1.95s
+Vehicle 1
+--> road: test0
+--> position: 12.7375
+--> speed: 2.78357
+
+Time: 1.96667s
+Vehicle 1
+--> road: test0
+--> position: 12.7844
+--> speed: 2.80755
+
+Time: 1.98333s
+Vehicle 1
+--> road: test0
+--> position: 12.8318
+--> speed: 2.83153
+
+Time: 2s
+Vehicle 1
+--> road: test0
+--> position: 12.8796
+--> speed: 2.85551
+
+Time: 2.01667s
+Vehicle 1
+--> road: test0
+--> position: 12.9278
+--> speed: 2.87949
+
+Time: 2.03333s
+Vehicle 1
+--> road: test0
+--> position: 12.9764
+--> speed: 2.90347
+
+Time: 2.05s
+Vehicle 1
+--> road: test0
+--> position: 13.0254
+--> speed: 2.92744
+
+Time: 2.06667s
+Vehicle 1
+--> road: test0
+--> position: 13.0748
+--> speed: 2.95142
+
+Time: 2.08333s
+Vehicle 1
+--> road: test0
+--> position: 13.1246
+--> speed: 2.9754
+
+Time: 2.1s
+Vehicle 1
+--> road: test0
+--> position: 13.1748
+--> speed: 2.99937
+
+Time: 2.11667s
+Vehicle 1
+--> road: test0
+--> position: 13.2254
+--> speed: 3.02335
+
+Time: 2.13333s
+Vehicle 1
+--> road: test0
+--> position: 13.2764
+--> speed: 3.04732
+
+Time: 2.15s
+Vehicle 1
+--> road: test0
+--> position: 13.3277
+--> speed: 3.07129
+
+Time: 2.16667s
+Vehicle 1
+--> road: test0
+--> position: 13.3795
+--> speed: 3.09527
+
+Time: 2.18333s
+Vehicle 1
+--> road: test0
+--> position: 13.4317
+--> speed: 3.11924
+
+Time: 2.2s
+Vehicle 1
+--> road: test0
+--> position: 13.4843
+--> speed: 3.14321
+
+Time: 2.21667s
+Vehicle 1
+--> road: test0
+--> position: 13.5373
+--> speed: 3.16718
+
+Time: 2.23333s
+Vehicle 1
+--> road: test0
+--> position: 13.5907
+--> speed: 3.19114
+
+Time: 2.25s
+Vehicle 1
+--> road: test0
+--> position: 13.6445
+--> speed: 3.21511
+
+Time: 2.26667s
+Vehicle 1
+--> road: test0
+--> position: 13.6986
+--> speed: 3.23908
+
+Time: 2.28333s
+Vehicle 1
+--> road: test0
+--> position: 13.7532
+--> speed: 3.26304
+
+Time: 2.3s
+Vehicle 1
+--> road: test0
+--> position: 13.8082
+--> speed: 3.28701
+
+Time: 2.31667s
+Vehicle 1
+--> road: test0
+--> position: 13.8636
+--> speed: 3.31097
+
+Time: 2.33333s
+Vehicle 1
+--> road: test0
+--> position: 13.9194
+--> speed: 3.33493
+
+Time: 2.35s
+Vehicle 1
+--> road: test0
+--> position: 13.9756
+--> speed: 3.35889
+
+Time: 2.36667s
+Vehicle 1
+--> road: test0
+--> position: 14.0321
+--> speed: 3.38285
+
+Time: 2.38333s
+Vehicle 1
+--> road: test0
+--> position: 14.0891
+--> speed: 3.40681
+
+Time: 2.4s
+Vehicle 1
+--> road: test0
+--> position: 14.1465
+--> speed: 3.43077
+
+Time: 2.41667s
+Vehicle 1
+--> road: test0
+--> position: 14.2043
+--> speed: 3.45472
+
+Time: 2.43333s
+Vehicle 1
+--> road: test0
+--> position: 14.2624
+--> speed: 3.47868
+
+Time: 2.45s
+Vehicle 1
+--> road: test0
+--> position: 14.321
+--> speed: 3.50263
+
+Time: 2.46667s
+Vehicle 1
+--> road: test0
+--> position: 14.38
+--> speed: 3.52659
+
+Time: 2.48333s
+Vehicle 1
+--> road: test0
+--> position: 14.4394
+--> speed: 3.55054
+
+Time: 2.5s
+Vehicle 1
+--> road: test0
+--> position: 14.4992
+--> speed: 3.57449
+
+Time: 2.51667s
+Vehicle 1
+--> road: test0
+--> position: 14.5593
+--> speed: 3.59844
+
+Time: 2.53333s
+Vehicle 1
+--> road: test0
+--> position: 14.6199
+--> speed: 3.62238
+
+Time: 2.55s
+Vehicle 1
+--> road: test0
+--> position: 14.6809
+--> speed: 3.64633
+
+Time: 2.56667s
+Vehicle 1
+--> road: test0
+--> position: 14.7422
+--> speed: 3.67027
+
+Time: 2.58333s
+Vehicle 1
+--> road: test0
+--> position: 14.804
+--> speed: 3.69421
+
+Time: 2.6s
+Vehicle 1
+--> road: test0
+--> position: 14.8662
+--> speed: 3.71816
+
+Time: 2.61667s
+Vehicle 1
+--> road: test0
+--> position: 14.9287
+--> speed: 3.7421
+
+Time: 2.63333s
+Vehicle 1
+--> road: test0
+--> position: 14.9917
+--> speed: 3.76603
+
+Time: 2.65s
+Vehicle 1
+--> road: test0
+--> position: 15.0551
+--> speed: 3.78997
+
+Time: 2.66667s
+Vehicle 1
+--> road: test0
+--> position: 15.1188
+--> speed: 3.8139
+
+Time: 2.68333s
+Vehicle 1
+--> road: test0
+--> position: 15.183
+--> speed: 3.83784
+
+Time: 2.7s
+Vehicle 1
+--> road: test0
+--> position: 15.2476
+--> speed: 3.86177
+
+Time: 2.71667s
+Vehicle 1
+--> road: test0
+--> position: 15.3125
+--> speed: 3.8857
+
+Time: 2.73333s
+Vehicle 1
+--> road: test0
+--> position: 15.3779
+--> speed: 3.90963
+
+Time: 2.75s
+Vehicle 1
+--> road: test0
+--> position: 15.4436
+--> speed: 3.93355
+
+Time: 2.76667s
+Vehicle 1
+--> road: test0
+--> position: 15.5098
+--> speed: 3.95748
+
+Time: 2.78333s
+Vehicle 1
+--> road: test0
+--> position: 15.5764
+--> speed: 3.9814
+
+Time: 2.8s
+Vehicle 1
+--> road: test0
+--> position: 15.6433
+--> speed: 4.00532
+
+Time: 2.81667s
+Vehicle 1
+--> road: test0
+--> position: 15.7107
+--> speed: 4.02924
+
+Time: 2.83333s
+Vehicle 1
+--> road: test0
+--> position: 15.7784
+--> speed: 4.05316
+
+Time: 2.85s
+Vehicle 1
+--> road: test0
+--> position: 15.8466
+--> speed: 4.07707
+
+Time: 2.86667s
+Vehicle 1
+--> road: test0
+--> position: 15.9151
+--> speed: 4.10098
+
+Time: 2.88333s
+Vehicle 1
+--> road: test0
+--> position: 15.9841
+--> speed: 4.12489
+
+Time: 2.9s
+Vehicle 1
+--> road: test0
+--> position: 16.0534
+--> speed: 4.1488
+
+Time: 2.91667s
+Vehicle 1
+--> road: test0
+--> position: 16.1232
+--> speed: 4.17271
+
+Time: 2.93333s
+Vehicle 1
+--> road: test0
+--> position: 16.1933
+--> speed: 4.19661
+
+Time: 2.95s
+Vehicle 1
+--> road: test0
+--> position: 16.2638
+--> speed: 4.22051
+
+Time: 2.96667s
+Vehicle 1
+--> road: test0
+--> position: 16.3348
+--> speed: 4.24441
+
+Time: 2.98333s
+Vehicle 1
+--> road: test0
+--> position: 16.4061
+--> speed: 4.26831
+
+Time: 3s
+Vehicle 1
+--> road: test0
+--> position: 16.4779
+--> speed: 4.29221
+
+Time: 3.01667s
+Vehicle 1
+--> road: test0
+--> position: 16.55
+--> speed: 4.3161
+
+Time: 3.03333s
+Vehicle 1
+--> road: test0
+--> position: 16.6225
+--> speed: 4.33999
+
+Time: 3.05s
+Vehicle 1
+--> road: test0
+--> position: 16.6955
+--> speed: 4.36388
+
+Time: 3.06667s
+Vehicle 1
+--> road: test0
+--> position: 16.7688
+--> speed: 4.38776
+
+Time: 3.08333s
+Vehicle 1
+--> road: test0
+--> position: 16.8425
+--> speed: 4.41165
+
+Time: 3.1s
+Vehicle 1
+--> road: test0
+--> position: 16.9166
+--> speed: 4.43553
+
+Time: 3.11667s
+Vehicle 1
+--> road: test0
+--> position: 16.9912
+--> speed: 4.4594
+
+Time: 3.13333s
+Vehicle 1
+--> road: test0
+--> position: 17.0661
+--> speed: 4.48328
+
+Time: 3.15s
+Vehicle 1
+--> road: test0
+--> position: 17.1414
+--> speed: 4.50715
+
+Time: 3.16667s
+Vehicle 1
+--> road: test0
+--> position: 17.2171
+--> speed: 4.53102
+
+Time: 3.18333s
+Vehicle 1
+--> road: test0
+--> position: 17.2932
+--> speed: 4.55489
+
+Time: 3.2s
+Vehicle 1
+--> road: test0
+--> position: 17.3697
+--> speed: 4.57875
+
+Time: 3.21667s
+Vehicle 1
+--> road: test0
+--> position: 17.4466
+--> speed: 4.60261
+
+Time: 3.23333s
+Vehicle 1
+--> road: test0
+--> position: 17.5239
+--> speed: 4.62647
+
+Time: 3.25s
+Vehicle 1
+--> road: test0
+--> position: 17.6017
+--> speed: 4.65033
+
+Time: 3.26667s
+Vehicle 1
+--> road: test0
+--> position: 17.6798
+--> speed: 4.67418
+
+Time: 3.28333s
+Vehicle 1
+--> road: test0
+--> position: 17.7583
+--> speed: 4.69803
+
+Time: 3.3s
+Vehicle 1
+--> road: test0
+--> position: 17.8371
+--> speed: 4.72187
+
+Time: 3.31667s
+Vehicle 1
+--> road: test0
+--> position: 17.9164
+--> speed: 4.74572
+
+Time: 3.33333s
+Vehicle 1
+--> road: test0
+--> position: 17.9961
+--> speed: 4.76956
+
+Time: 3.35s
+Vehicle 1
+--> road: test0
+--> position: 18.0762
+--> speed: 4.79339
+
+Time: 3.36667s
+Vehicle 1
+--> road: test0
+--> position: 18.1567
+--> speed: 4.81723
+
+Time: 3.38333s
+Vehicle 1
+--> road: test0
+--> position: 18.2376
+--> speed: 4.84106
+
+Time: 3.4s
+Vehicle 1
+--> road: test0
+--> position: 18.3189
+--> speed: 4.86488
+
+Time: 3.41667s
+Vehicle 1
+--> road: test0
+--> position: 18.4005
+--> speed: 4.8887
+
+Time: 3.43333s
+Vehicle 1
+--> road: test0
+--> position: 18.4826
+--> speed: 4.91252
+
+Time: 3.45s
+Vehicle 1
+--> road: test0
+--> position: 18.5651
+--> speed: 4.93634
+
+Time: 3.46667s
+Vehicle 1
+--> road: test0
+--> position: 18.648
+--> speed: 4.96015
+
+Time: 3.48333s
+Vehicle 1
+--> road: test0
+--> position: 18.7312
+--> speed: 4.98396
+
+Time: 3.5s
+Vehicle 1
+--> road: test0
+--> position: 18.8149
+--> speed: 5.00777
+
+Time: 3.51667s
+Vehicle 1
+--> road: test0
+--> position: 18.8989
+--> speed: 5.03157
+
+Time: 3.53333s
+Vehicle 1
+--> road: test0
+--> position: 18.9834
+--> speed: 5.05536
+
+Time: 3.55s
+Vehicle 1
+--> road: test0
+--> position: 19.0682
+--> speed: 5.07916
+
+Time: 3.56667s
+Vehicle 1
+--> road: test0
+--> position: 19.1535
+--> speed: 5.10295
+
+Time: 3.58333s
+Vehicle 1
+--> road: test0
+--> position: 19.2391
+--> speed: 5.12673
+
+Time: 3.6s
+Vehicle 1
+--> road: test0
+--> position: 19.3252
+--> speed: 5.15052
+
+Time: 3.61667s
+Vehicle 1
+--> road: test0
+--> position: 19.4116
+--> speed: 5.17429
+
+Time: 3.63333s
+Vehicle 1
+--> road: test0
+--> position: 19.4985
+--> speed: 5.19807
+
+Time: 3.65s
+Vehicle 1
+--> road: test0
+--> position: 19.5857
+--> speed: 5.22184
+
+Time: 3.66667s
+Vehicle 1
+--> road: test0
+--> position: 19.6733
+--> speed: 5.2456
+
+Time: 3.68333s
+Vehicle 1
+--> road: test0
+--> position: 19.7613
+--> speed: 5.26936
+
+Time: 3.7s
+Vehicle 1
+--> road: test0
+--> position: 19.8497
+--> speed: 5.29312
+
+Time: 3.71667s
+Vehicle 1
+--> road: test0
+--> position: 19.9386
+--> speed: 5.31687
+
+Time: 3.73333s
+Vehicle 1
+--> road: test0
+--> position: 20.0278
+--> speed: 5.34062
+
+Time: 3.75s
+Vehicle 1
+--> road: test0
+--> position: 20.1174
+--> speed: 5.36436
+
+Time: 3.76667s
+Vehicle 1
+--> road: test0
+--> position: 20.2074
+--> speed: 5.3881
+
+Time: 3.78333s
+Vehicle 1
+--> road: test0
+--> position: 20.2978
+--> speed: 5.41183
+
+Time: 3.8s
+Vehicle 1
+--> road: test0
+--> position: 20.3886
+--> speed: 5.43556
+
+Time: 3.81667s
+Vehicle 1
+--> road: test0
+--> position: 20.4797
+--> speed: 5.45928
+
+Time: 3.83333s
+Vehicle 1
+--> road: test0
+--> position: 20.5713
+--> speed: 5.483
+
+Time: 3.85s
+Vehicle 1
+--> road: test0
+--> position: 20.6633
+--> speed: 5.50672
+
+Time: 3.86667s
+Vehicle 1
+--> road: test0
+--> position: 20.7557
+--> speed: 5.53043
+
+Time: 3.88333s
+Vehicle 1
+--> road: test0
+--> position: 20.8484
+--> speed: 5.55413
+
+Time: 3.9s
+Vehicle 1
+--> road: test0
+--> position: 20.9416
+--> speed: 5.57783
+
+Time: 3.91667s
+Vehicle 1
+--> road: test0
+--> position: 21.0351
+--> speed: 5.60153
+
+Time: 3.93333s
+Vehicle 1
+--> road: test0
+--> position: 21.1291
+--> speed: 5.62521
+
+Time: 3.95s
+Vehicle 1
+--> road: test0
+--> position: 21.2234
+--> speed: 5.6489
+
+Time: 3.96667s
+Vehicle 1
+--> road: test0
+--> position: 21.3182
+--> speed: 5.67258
+
+Time: 3.98333s
+Vehicle 1
+--> road: test0
+--> position: 21.4133
+--> speed: 5.69625
+
+Time: 4s
+Vehicle 1
+--> road: test0
+--> position: 21.5088
+--> speed: 5.71992
+
+Time: 4.01667s
+Vehicle 1
+--> road: test0
+--> position: 21.6048
+--> speed: 5.74358
+
+Time: 4.03333s
+Vehicle 1
+--> road: test0
+--> position: 21.7011
+--> speed: 5.76723
+
+Time: 4.05s
+Vehicle 1
+--> road: test0
+--> position: 21.7978
+--> speed: 5.79088
+
+Time: 4.06667s
+Vehicle 1
+--> road: test0
+--> position: 21.8949
+--> speed: 5.81453
+
+Time: 4.08333s
+Vehicle 1
+--> road: test0
+--> position: 21.9924
+--> speed: 5.83817
+
+Time: 4.1s
+Vehicle 1
+--> road: test0
+--> position: 22.0903
+--> speed: 5.8618
+
+Time: 4.11667s
+Vehicle 1
+--> road: test0
+--> position: 22.1886
+--> speed: 5.88543
+
+Time: 4.13333s
+Vehicle 1
+--> road: test0
+--> position: 22.2873
+--> speed: 5.90905
+
+Time: 4.15s
+Vehicle 1
+--> road: test0
+--> position: 22.3863
+--> speed: 5.93266
+
+Time: 4.16667s
+Vehicle 1
+--> road: test0
+--> position: 22.4858
+--> speed: 5.95627
+
+Time: 4.18333s
+Vehicle 1
+--> road: test0
+--> position: 22.5857
+--> speed: 5.97987
+
+Time: 4.2s
+Vehicle 1
+--> road: test0
+--> position: 22.6859
+--> speed: 6.00347
+
+Time: 4.21667s
+Vehicle 1
+--> road: test0
+--> position: 22.7866
+--> speed: 6.02706
+
+Time: 4.23333s
+Vehicle 1
+--> road: test0
+--> position: 22.8876
+--> speed: 6.05064
+
+Time: 4.25s
+Vehicle 1
+--> road: test0
+--> position: 22.989
+--> speed: 6.07422
+
+Time: 4.26667s
+Vehicle 1
+--> road: test0
+--> position: 23.0909
+--> speed: 6.09779
+
+Time: 4.28333s
+Vehicle 1
+--> road: test0
+--> position: 23.1931
+--> speed: 6.12135
+
+Time: 4.3s
+Vehicle 1
+--> road: test0
+--> position: 23.2957
+--> speed: 6.14491
+
+Time: 4.31667s
+Vehicle 1
+--> road: test0
+--> position: 23.3987
+--> speed: 6.16846
+
+Time: 4.33333s
+Vehicle 1
+--> road: test0
+--> position: 23.5021
+--> speed: 6.192
+
+Time: 4.35s
+Vehicle 1
+--> road: test0
+--> position: 23.6059
+--> speed: 6.21553
+
+Time: 4.36667s
+Vehicle 1
+--> road: test0
+--> position: 23.7101
+--> speed: 6.23906
+
+Time: 4.38333s
+Vehicle 1
+--> road: test0
+--> position: 23.8146
+--> speed: 6.26258
+
+Time: 4.4s
+Vehicle 1
+--> road: test0
+--> position: 23.9196
+--> speed: 6.2861
+
+Time: 4.41667s
+Vehicle 1
+--> road: test0
+--> position: 24.025
+--> speed: 6.3096
+
+Time: 4.43333s
+Vehicle 1
+--> road: test0
+--> position: 24.1307
+--> speed: 6.3331
+
+Time: 4.45s
+Vehicle 1
+--> road: test0
+--> position: 24.2369
+--> speed: 6.35659
+
+Time: 4.46667s
+Vehicle 1
+--> road: test0
+--> position: 24.3434
+--> speed: 6.38008
+
+Time: 4.48333s
+Vehicle 1
+--> road: test0
+--> position: 24.4503
+--> speed: 6.40355
+
+Time: 4.5s
+Vehicle 1
+--> road: test0
+--> position: 24.5576
+--> speed: 6.42702
+
+Time: 4.51667s
+Vehicle 1
+--> road: test0
+--> position: 24.6653
+--> speed: 6.45048
+
+Time: 4.53333s
+Vehicle 1
+--> road: test0
+--> position: 24.7734
+--> speed: 6.47394
+
+Time: 4.55s
+Vehicle 1
+--> road: test0
+--> position: 24.8819
+--> speed: 6.49738
+
+Time: 4.56667s
+Vehicle 1
+--> road: test0
+--> position: 24.9908
+--> speed: 6.52082
+
+Time: 4.58333s
+Vehicle 1
+--> road: test0
+--> position: 25.1
+--> speed: 6.54425
+
+Time: 4.6s
+Vehicle 1
+--> road: test0
+--> position: 25.2097
+--> speed: 6.56767
+
+Time: 4.61667s
+Vehicle 1
+--> road: test0
+--> position: 25.3197
+--> speed: 6.59108
+
+Time: 4.63333s
+Vehicle 1
+--> road: test0
+--> position: 25.4302
+--> speed: 6.61448
+
+Time: 4.65s
+Vehicle 1
+--> road: test0
+--> position: 25.541
+--> speed: 6.63788
+
+Time: 4.66667s
+Vehicle 1
+--> road: test0
+--> position: 25.6522
+--> speed: 6.66126
+
+Time: 4.68333s
+Vehicle 1
+--> road: test0
+--> position: 25.7638
+--> speed: 6.68464
+
+Time: 4.7s
+Vehicle 1
+--> road: test0
+--> position: 25.8758
+--> speed: 6.70801
+
+Time: 4.71667s
+Vehicle 1
+--> road: test0
+--> position: 25.9882
+--> speed: 6.73137
+
+Time: 4.73333s
+Vehicle 1
+--> road: test0
+--> position: 26.101
+--> speed: 6.75472
+
+Time: 4.75s
+Vehicle 1
+--> road: test0
+--> position: 26.2141
+--> speed: 6.77806
+
+Time: 4.76667s
+Vehicle 1
+--> road: test0
+--> position: 26.3277
+--> speed: 6.8014
+
+Time: 4.78333s
+Vehicle 1
+--> road: test0
+--> position: 26.4416
+--> speed: 6.82472
+
+Time: 4.8s
+Vehicle 1
+--> road: test0
+--> position: 26.556
+--> speed: 6.84803
+
+Time: 4.81667s
+Vehicle 1
+--> road: test0
+--> position: 26.6707
+--> speed: 6.87134
+
+Time: 4.83333s
+Vehicle 1
+--> road: test0
+--> position: 26.7858
+--> speed: 6.89463
+
+Time: 4.85s
+Vehicle 1
+--> road: test0
+--> position: 26.9013
+--> speed: 6.91792
+
+Time: 4.86667s
+Vehicle 1
+--> road: test0
+--> position: 27.0172
+--> speed: 6.9412
+
+Time: 4.88333s
+Vehicle 1
+--> road: test0
+--> position: 27.1334
+--> speed: 6.96446
+
+Time: 4.9s
+Vehicle 1
+--> road: test0
+--> position: 27.2501
+--> speed: 6.98772
+
+Time: 4.91667s
+Vehicle 1
+--> road: test0
+--> position: 27.3671
+--> speed: 7.01097
+
+Time: 4.93333s
+Vehicle 1
+--> road: test0
+--> position: 27.4846
+--> speed: 7.0342
+
+Time: 4.95s
+Vehicle 1
+--> road: test0
+--> position: 27.6024
+--> speed: 7.05743
+
+Time: 4.96667s
+Vehicle 1
+--> road: test0
+--> position: 27.7206
+--> speed: 7.08064
+
+Time: 4.98333s
+Vehicle 1
+--> road: test0
+--> position: 27.8392
+--> speed: 7.10385
+
+Time: 5s
+Vehicle 1
+--> road: test0
+--> position: 27.9581
+--> speed: 7.12704
+
+Time: 5.01667s
+Vehicle 1
+--> road: test0
+--> position: 28.0775
+--> speed: 7.15023
+
+Time: 5.03333s
+Vehicle 1
+--> road: test0
+--> position: 28.1973
+--> speed: 7.1734
+
+Time: 5.05s
+Vehicle 1
+--> road: test0
+--> position: 28.3174
+--> speed: 7.19657
+
+Time: 5.06667s
+Vehicle 1
+--> road: test0
+--> position: 28.4379
+--> speed: 7.21972
+
+Time: 5.08333s
+Vehicle 1
+--> road: test0
+--> position: 28.5588
+--> speed: 7.24286
+
+Time: 5.1s
+Vehicle 1
+--> road: test0
+--> position: 28.6801
+--> speed: 7.26599
+
+Time: 5.11667s
+Vehicle 1
+--> road: test0
+--> position: 28.8018
+--> speed: 7.28911
+
+Time: 5.13333s
+Vehicle 1
+--> road: test0
+--> position: 28.9239
+--> speed: 7.31222
+
+Time: 5.15s
+Vehicle 1
+--> road: test0
+--> position: 29.0463
+--> speed: 7.33531
+
+Time: 5.16667s
+Vehicle 1
+--> road: test0
+--> position: 29.1691
+--> speed: 7.3584
+
+Time: 5.18333s
+Vehicle 1
+--> road: test0
+--> position: 29.2924
+--> speed: 7.38147
+
+Time: 5.2s
+Vehicle 1
+--> road: test0
+--> position: 29.416
+--> speed: 7.40453
+
+Time: 5.21667s
+Vehicle 1
+--> road: test0
+--> position: 29.5399
+--> speed: 7.42758
+
+Time: 5.23333s
+Vehicle 1
+--> road: test0
+--> position: 29.6643
+--> speed: 7.45062
+
+Time: 5.25s
+Vehicle 1
+--> road: test0
+--> position: 29.7891
+--> speed: 7.47365
+
+Time: 5.26667s
+Vehicle 1
+--> road: test0
+--> position: 29.9142
+--> speed: 7.49666
+
+Time: 5.28333s
+Vehicle 1
+--> road: test0
+--> position: 30.0397
+--> speed: 7.51966
+
+Time: 5.3s
+Vehicle 1
+--> road: test0
+--> position: 30.1656
+--> speed: 7.54265
+
+Time: 5.31667s
+Vehicle 1
+--> road: test0
+--> position: 30.2919
+--> speed: 7.56563
+
+Time: 5.33333s
+Vehicle 1
+--> road: test0
+--> position: 30.4186
+--> speed: 7.58859
+
+Time: 5.35s
+Vehicle 1
+--> road: test0
+--> position: 30.5456
+--> speed: 7.61154
+
+Time: 5.36667s
+Vehicle 1
+--> road: test0
+--> position: 30.6731
+--> speed: 7.63448
+
+Time: 5.38333s
+Vehicle 1
+--> road: test0
+--> position: 30.8009
+--> speed: 7.65741
+
+Time: 5.4s
+Vehicle 1
+--> road: test0
+--> position: 30.9291
+--> speed: 7.68032
+
+Time: 5.41667s
+Vehicle 1
+--> road: test0
+--> position: 31.0576
+--> speed: 7.70322
+
+Time: 5.43333s
+Vehicle 1
+--> road: test0
+--> position: 31.1866
+--> speed: 7.72611
+
+Time: 5.45s
+Vehicle 1
+--> road: test0
+--> position: 31.3159
+--> speed: 7.74898
+
+Time: 5.46667s
+Vehicle 1
+--> road: test0
+--> position: 31.4457
+--> speed: 7.77184
+
+Time: 5.48333s
+Vehicle 1
+--> road: test0
+--> position: 31.5758
+--> speed: 7.79469
+
+Time: 5.5s
+Vehicle 1
+--> road: test0
+--> position: 31.7062
+--> speed: 7.81753
+
+Time: 5.51667s
+Vehicle 1
+--> road: test0
+--> position: 31.8371
+--> speed: 7.84034
+
+Time: 5.53333s
+Vehicle 1
+--> road: test0
+--> position: 31.9684
+--> speed: 7.86315
+
+Time: 5.55s
+Vehicle 1
+--> road: test0
+--> position: 32.1
+--> speed: 7.88594
+
+Time: 5.56667s
+Vehicle 1
+--> road: test0
+--> position: 32.232
+--> speed: 7.90872
+
+Time: 5.58333s
+Vehicle 1
+--> road: test0
+--> position: 32.3644
+--> speed: 7.93148
+
+Time: 5.6s
+Vehicle 1
+--> road: test0
+--> position: 32.4971
+--> speed: 7.95423
+
+Time: 5.61667s
+Vehicle 1
+--> road: test0
+--> position: 32.6303
+--> speed: 7.97697
+
+Time: 5.63333s
+Vehicle 1
+--> road: test0
+--> position: 32.7638
+--> speed: 7.99969
+
+Time: 5.65s
+Vehicle 1
+--> road: test0
+--> position: 32.8977
+--> speed: 8.02239
+
+Time: 5.66667s
+Vehicle 1
+--> road: test0
+--> position: 33.0319
+--> speed: 8.04508
+
+Time: 5.68333s
+Vehicle 1
+--> road: test0
+--> position: 33.1666
+--> speed: 8.06776
+
+Time: 5.7s
+Vehicle 1
+--> road: test0
+--> position: 33.3016
+--> speed: 8.09042
+
+Time: 5.71667s
+Vehicle 1
+--> road: test0
+--> position: 33.437
+--> speed: 8.11307
+
+Time: 5.73333s
+Vehicle 1
+--> road: test0
+--> position: 33.5728
+--> speed: 8.1357
+
+Time: 5.75s
+Vehicle 1
+--> road: test0
+--> position: 33.709
+--> speed: 8.15831
+
+Time: 5.76667s
+Vehicle 1
+--> road: test0
+--> position: 33.8455
+--> speed: 8.18091
+
+Time: 5.78333s
+Vehicle 1
+--> road: test0
+--> position: 33.9824
+--> speed: 8.2035
+
+Time: 5.8s
+Vehicle 1
+--> road: test0
+--> position: 34.1197
+--> speed: 8.22607
+
+Time: 5.81667s
+Vehicle 1
+--> road: test0
+--> position: 34.2574
+--> speed: 8.24862
+
+Time: 5.83333s
+Vehicle 1
+--> road: test0
+--> position: 34.3954
+--> speed: 8.27115
+
+Time: 5.85s
+Vehicle 1
+--> road: test0
+--> position: 34.5338
+--> speed: 8.29368
+
+Time: 5.86667s
+Vehicle 1
+--> road: test0
+--> position: 34.6726
+--> speed: 8.31618
+
+Time: 5.88333s
+Vehicle 1
+--> road: test0
+--> position: 34.8118
+--> speed: 8.33867
+
+Time: 5.9s
+Vehicle 1
+--> road: test0
+--> position: 34.9513
+--> speed: 8.36114
+
+Time: 5.91667s
+Vehicle 1
+--> road: test0
+--> position: 35.0912
+--> speed: 8.3836
+
+Time: 5.93333s
+Vehicle 1
+--> road: test0
+--> position: 35.2315
+--> speed: 8.40603
+
+Time: 5.95s
+Vehicle 1
+--> road: test0
+--> position: 35.3722
+--> speed: 8.42846
+
+Time: 5.96667s
+Vehicle 1
+--> road: test0
+--> position: 35.5132
+--> speed: 8.45086
+
+Time: 5.98333s
+Vehicle 1
+--> road: test0
+--> position: 35.6546
+--> speed: 8.47325
+
+Time: 6s
+Vehicle 1
+--> road: test0
+--> position: 35.7964
+--> speed: 8.49562
+
+Time: 6.01667s
+Vehicle 1
+--> road: test0
+--> position: 35.9386
+--> speed: 8.51797
+
+Time: 6.03333s
+Vehicle 1
+--> road: test0
+--> position: 36.0811
+--> speed: 8.54031
+
+Time: 6.05s
+Vehicle 1
+--> road: test0
+--> position: 36.224
+--> speed: 8.56263
+
+Time: 6.06667s
+Vehicle 1
+--> road: test0
+--> position: 36.3673
+--> speed: 8.58493
+
+Time: 6.08333s
+Vehicle 1
+--> road: test0
+--> position: 36.5109
+--> speed: 8.60721
+
+Time: 6.1s
+Vehicle 1
+--> road: test0
+--> position: 36.6549
+--> speed: 8.62948
+
+Time: 6.11667s
+Vehicle 1
+--> road: test0
+--> position: 36.7993
+--> speed: 8.65172
+
+Time: 6.13333s
+Vehicle 1
+--> road: test0
+--> position: 36.944
+--> speed: 8.67395
+
+Time: 6.15s
+Vehicle 1
+--> road: test0
+--> position: 37.0892
+--> speed: 8.69616
+
+Time: 6.16667s
+Vehicle 1
+--> road: test0
+--> position: 37.2347
+--> speed: 8.71836
+
+Time: 6.18333s
+Vehicle 1
+--> road: test0
+--> position: 37.3805
+--> speed: 8.74053
+
+Time: 6.2s
+Vehicle 1
+--> road: test0
+--> position: 37.5267
+--> speed: 8.76269
+
+Time: 6.21667s
+Vehicle 1
+--> road: test0
+--> position: 37.6733
+--> speed: 8.78482
+
+Time: 6.23333s
+Vehicle 1
+--> road: test0
+--> position: 37.8203
+--> speed: 8.80694
+
+Time: 6.25s
+Vehicle 1
+--> road: test0
+--> position: 37.9676
+--> speed: 8.82904
+
+Time: 6.26667s
+Vehicle 1
+--> road: test0
+--> position: 38.1153
+--> speed: 8.85112
+
+Time: 6.28333s
+Vehicle 1
+--> road: test0
+--> position: 38.2634
+--> speed: 8.87318
+
+Time: 6.3s
+Vehicle 1
+--> road: test0
+--> position: 38.4119
+--> speed: 8.89522
+
+Time: 6.31667s
+Vehicle 1
+--> road: test0
+--> position: 38.5607
+--> speed: 8.91724
+
+Time: 6.33333s
+Vehicle 1
+--> road: test0
+--> position: 38.7098
+--> speed: 8.93924
+
+Time: 6.35s
+Vehicle 1
+--> road: test0
+--> position: 38.8594
+--> speed: 8.96122
+
+Time: 6.36667s
+Vehicle 1
+--> road: test0
+--> position: 39.0093
+--> speed: 8.98319
+
+Time: 6.38333s
+Vehicle 1
+--> road: test0
+--> position: 39.1595
+--> speed: 9.00513
+
+Time: 6.4s
+Vehicle 1
+--> road: test0
+--> position: 39.3102
+--> speed: 9.02705
+
+Time: 6.41667s
+Vehicle 1
+--> road: test0
+--> position: 39.4612
+--> speed: 9.04895
+
+Time: 6.43333s
+Vehicle 1
+--> road: test0
+--> position: 39.6125
+--> speed: 9.07083
+
+Time: 6.45s
+Vehicle 1
+--> road: test0
+--> position: 39.7643
+--> speed: 9.09269
+
+Time: 6.46667s
+Vehicle 1
+--> road: test0
+--> position: 39.9163
+--> speed: 9.11453
+
+Time: 6.48333s
+Vehicle 1
+--> road: test0
+--> position: 40.0688
+--> speed: 9.13635
+
+Time: 6.5s
+Vehicle 1
+--> road: test0
+--> position: 40.2216
+--> speed: 9.15815
+
+Time: 6.51667s
+Vehicle 1
+--> road: test0
+--> position: 40.3748
+--> speed: 9.17992
+
+Time: 6.53333s
+Vehicle 1
+--> road: test0
+--> position: 40.5283
+--> speed: 9.20168
+
+Time: 6.55s
+Vehicle 1
+--> road: test0
+--> position: 40.6822
+--> speed: 9.22341
+
+Time: 6.56667s
+Vehicle 1
+--> road: test0
+--> position: 40.8365
+--> speed: 9.24513
+
+Time: 6.58333s
+Vehicle 1
+--> road: test0
+--> position: 40.9911
+--> speed: 9.26682
+
+Time: 6.6s
+Vehicle 1
+--> road: test0
+--> position: 41.1461
+--> speed: 9.28849
+
+Time: 6.61667s
+Vehicle 1
+--> road: test0
+--> position: 41.3015
+--> speed: 9.31013
+
+Time: 6.63333s
+Vehicle 1
+--> road: test0
+--> position: 41.4572
+--> speed: 9.33176
+
+Time: 6.65s
+Vehicle 1
+--> road: test0
+--> position: 41.6133
+--> speed: 9.35336
+
+Time: 6.66667s
+Vehicle 1
+--> road: test0
+--> position: 41.7697
+--> speed: 9.37494
+
+Time: 6.68333s
+Vehicle 1
+--> road: test0
+--> position: 41.9265
+--> speed: 9.3965
+
+Time: 6.7s
+Vehicle 1
+--> road: test0
+--> position: 42.0836
+--> speed: 9.41804
+
+Time: 6.71667s
+Vehicle 1
+--> road: test0
+--> position: 42.2411
+--> speed: 9.43955
+
+Time: 6.73333s
+Vehicle 1
+--> road: test0
+--> position: 42.399
+--> speed: 9.46104
+
+Time: 6.75s
+Vehicle 1
+--> road: test0
+--> position: 42.5572
+--> speed: 9.48251
+
+Time: 6.76667s
+Vehicle 1
+--> road: test0
+--> position: 42.7158
+--> speed: 9.50395
+
+Time: 6.78333s
+Vehicle 1
+--> road: test0
+--> position: 42.8747
+--> speed: 9.52537
+
+Time: 6.8s
+Vehicle 1
+--> road: test0
+--> position: 43.034
+--> speed: 9.54677
+
+Time: 6.81667s
+Vehicle 1
+--> road: test0
+--> position: 43.1937
+--> speed: 9.56815
+
+Time: 6.83333s
+Vehicle 1
+--> road: test0
+--> position: 43.3537
+--> speed: 9.5895
+
+Time: 6.85s
+Vehicle 1
+--> road: test0
+--> position: 43.514
+--> speed: 9.61083
+
+Time: 6.86667s
+Vehicle 1
+--> road: test0
+--> position: 43.6747
+--> speed: 9.63213
+
+Time: 6.88333s
+Vehicle 1
+--> road: test0
+--> position: 43.8358
+--> speed: 9.65341
+
+Time: 6.9s
+Vehicle 1
+--> road: test0
+--> position: 43.9972
+--> speed: 9.67466
+
+Time: 6.91667s
+Vehicle 1
+--> road: test0
+--> position: 44.159
+--> speed: 9.69589
+
+Time: 6.93333s
+Vehicle 1
+--> road: test0
+--> position: 44.3211
+--> speed: 9.7171
+
+Time: 6.95s
+Vehicle 1
+--> road: test0
+--> position: 44.4836
+--> speed: 9.73828
+
+Time: 6.96667s
+Vehicle 1
+--> road: test0
+--> position: 44.6464
+--> speed: 9.75944
+
+Time: 6.98333s
+Vehicle 1
+--> road: test0
+--> position: 44.8096
+--> speed: 9.78057
+
+Time: 7s
+Vehicle 1
+--> road: test0
+--> position: 44.9732
+--> speed: 9.80168
+
+Time: 7.01667s
+Vehicle 1
+--> road: test0
+--> position: 45.1371
+--> speed: 9.82276
+
+Time: 7.03333s
+Vehicle 1
+--> road: test0
+--> position: 45.3013
+--> speed: 9.84382
+
+Time: 7.05s
+Vehicle 1
+--> road: test0
+--> position: 45.4659
+--> speed: 9.86485
+
+Time: 7.06667s
+Vehicle 1
+--> road: test0
+--> position: 45.6308
+--> speed: 9.88586
+
+Time: 7.08333s
+Vehicle 1
+--> road: test0
+--> position: 45.7961
+--> speed: 9.90684
+
+Time: 7.1s
+Vehicle 1
+--> road: test0
+--> position: 45.9617
+--> speed: 9.9278
+
+Time: 7.11667s
+Vehicle 1
+--> road: test0
+--> position: 46.1277
+--> speed: 9.94873
+
+Time: 7.13333s
+Vehicle 1
+--> road: test0
+--> position: 46.2941
+--> speed: 9.96963
+
+Time: 7.15s
+Vehicle 1
+--> road: test0
+--> position: 46.4608
+--> speed: 9.99051
+
+Time: 7.16667s
+Vehicle 1
+--> road: test0
+--> position: 46.6278
+--> speed: 10.0114
+
+Time: 7.18333s
+Vehicle 1
+--> road: test0
+--> position: 46.7952
+--> speed: 10.0322
+
+Time: 7.2s
+Vehicle 1
+--> road: test0
+--> position: 46.9629
+--> speed: 10.053
+
+Time: 7.21667s
+Vehicle 1
+--> road: test0
+--> position: 47.1309
+--> speed: 10.0738
+
+Time: 7.23333s
+Vehicle 1
+--> road: test0
+--> position: 47.2994
+--> speed: 10.0945
+
+Time: 7.25s
+Vehicle 1
+--> road: test0
+--> position: 47.4681
+--> speed: 10.1152
+
+Time: 7.26667s
+Vehicle 1
+--> road: test0
+--> position: 47.6372
+--> speed: 10.1359
+
+Time: 7.28333s
+Vehicle 1
+--> road: test0
+--> position: 47.8067
+--> speed: 10.1566
+
+Time: 7.3s
+Vehicle 1
+--> road: test0
+--> position: 47.9765
+--> speed: 10.1772
+
+Time: 7.31667s
+Vehicle 1
+--> road: test0
+--> position: 48.1466
+--> speed: 10.1978
+
+Time: 7.33333s
+Vehicle 1
+--> road: test0
+--> position: 48.3171
+--> speed: 10.2184
+
+Time: 7.35s
+Vehicle 1
+--> road: test0
+--> position: 48.4879
+--> speed: 10.239
+
+Time: 7.36667s
+Vehicle 1
+--> road: test0
+--> position: 48.6591
+--> speed: 10.2595
+
+Time: 7.38333s
+Vehicle 1
+--> road: test0
+--> position: 48.8306
+--> speed: 10.28
+
+Time: 7.4s
+Vehicle 1
+--> road: test0
+--> position: 49.0024
+--> speed: 10.3004
+
+Time: 7.41667s
+Vehicle 1
+--> road: test0
+--> position: 49.1746
+--> speed: 10.3209
+
+Time: 7.43333s
+Vehicle 1
+--> road: test0
+--> position: 49.3471
+--> speed: 10.3413
+
+Time: 7.45s
+Vehicle 1
+--> road: test0
+--> position: 49.52
+--> speed: 10.3617
+
+Time: 7.46667s
+Vehicle 1
+--> road: test0
+--> position: 49.6932
+--> speed: 10.382
+
+Time: 7.48333s
+Vehicle 1
+--> road: test0
+--> position: 49.8667
+--> speed: 10.4024
+
+Time: 7.5s
+Vehicle 1
+--> road: test0
+--> position: 50.0406
+--> speed: 10.4227
+
+Time: 7.51667s
+Vehicle 1
+--> road: test0
+--> position: 50.2148
+--> speed: 10.4429
+
+Time: 7.53333s
+Vehicle 1
+--> road: test0
+--> position: 50.3894
+--> speed: 10.4632
+
+Time: 7.55s
+Vehicle 1
+--> road: test0
+--> position: 50.5643
+--> speed: 10.4834
+
+Time: 7.56667s
+Vehicle 1
+--> road: test0
+--> position: 50.7395
+--> speed: 10.5036
+
+Time: 7.58333s
+Vehicle 1
+--> road: test0
+--> position: 50.9151
+--> speed: 10.5237
+
+Time: 7.6s
+Vehicle 1
+--> road: test0
+--> position: 51.091
+--> speed: 10.5439
+
+Time: 7.61667s
+Vehicle 1
+--> road: test0
+--> position: 51.2672
+--> speed: 10.5639
+
+Time: 7.63333s
+Vehicle 1
+--> road: test0
+--> position: 51.4438
+--> speed: 10.584
+
+Time: 7.65s
+Vehicle 1
+--> road: test0
+--> position: 51.6207
+--> speed: 10.604
+
+Time: 7.66667s
+Vehicle 1
+--> road: test0
+--> position: 51.7979
+--> speed: 10.624
+
+Time: 7.68333s
+Vehicle 1
+--> road: test0
+--> position: 51.9755
+--> speed: 10.644
+
+Time: 7.7s
+Vehicle 1
+--> road: test0
+--> position: 52.1534
+--> speed: 10.664
+
+Time: 7.71667s
+Vehicle 1
+--> road: test0
+--> position: 52.3316
+--> speed: 10.6839
+
+Time: 7.73333s
+Vehicle 1
+--> road: test0
+--> position: 52.5102
+--> speed: 10.7038
+
+Time: 7.75s
+Vehicle 1
+--> road: test0
+--> position: 52.6891
+--> speed: 10.7236
+
+Time: 7.76667s
+Vehicle 1
+--> road: test0
+--> position: 52.8683
+--> speed: 10.7434
+
+Time: 7.78333s
+Vehicle 1
+--> road: test0
+--> position: 53.0478
+--> speed: 10.7632
+
+Time: 7.8s
+Vehicle 1
+--> road: test0
+--> position: 53.2277
+--> speed: 10.783
+
+Time: 7.81667s
+Vehicle 1
+--> road: test0
+--> position: 53.4079
+--> speed: 10.8027
+
+Time: 7.83333s
+Vehicle 1
+--> road: test0
+--> position: 53.5885
+--> speed: 10.8224
+
+Time: 7.85s
+Vehicle 1
+--> road: test0
+--> position: 53.7693
+--> speed: 10.8421
+
+Time: 7.86667s
+Vehicle 1
+--> road: test0
+--> position: 53.9505
+--> speed: 10.8617
+
+Time: 7.88333s
+Vehicle 1
+--> road: test0
+--> position: 54.132
+--> speed: 10.8813
+
+Time: 7.9s
+Vehicle 1
+--> road: test0
+--> position: 54.3139
+--> speed: 10.9009
+
+Time: 7.91667s
+Vehicle 1
+--> road: test0
+--> position: 54.496
+--> speed: 10.9204
+
+Time: 7.93333s
+Vehicle 1
+--> road: test0
+--> position: 54.6785
+--> speed: 10.9399
+
+Time: 7.95s
+Vehicle 1
+--> road: test0
+--> position: 54.8614
+--> speed: 10.9594
+
+Time: 7.96667s
+Vehicle 1
+--> road: test0
+--> position: 55.0445
+--> speed: 10.9788
+
+Time: 7.98333s
+Vehicle 1
+--> road: test0
+--> position: 55.228
+--> speed: 10.9982
+
+Time: 8s
+Vehicle 1
+--> road: test0
+--> position: 55.4118
+--> speed: 11.0176
+
+Time: 8.01667s
+Vehicle 1
+--> road: test0
+--> position: 55.5959
+--> speed: 11.037
+
+Time: 8.03333s
+Vehicle 1
+--> road: test0
+--> position: 55.7803
+--> speed: 11.0563
+
+Time: 8.05s
+Vehicle 1
+--> road: test0
+--> position: 55.9651
+--> speed: 11.0755
+
+Time: 8.06667s
+Vehicle 1
+--> road: test0
+--> position: 56.1501
+--> speed: 11.0948
+
+Time: 8.08333s
+Vehicle 1
+--> road: test0
+--> position: 56.3355
+--> speed: 11.114
+
+Time: 8.1s
+Vehicle 1
+--> road: test0
+--> position: 56.5212
+--> speed: 11.1332
+
+Time: 8.11667s
+Vehicle 1
+--> road: test0
+--> position: 56.7073
+--> speed: 11.1523
+
+Time: 8.13333s
+Vehicle 1
+--> road: test0
+--> position: 56.8936
+--> speed: 11.1714
+
+Time: 8.15s
+Vehicle 1
+--> road: test0
+--> position: 57.0803
+--> speed: 11.1905
+
+Time: 8.16667s
+Vehicle 1
+--> road: test0
+--> position: 57.2673
+--> speed: 11.2095
+
+Time: 8.18333s
+Vehicle 1
+--> road: test0
+--> position: 57.4546
+--> speed: 11.2286
+
+Time: 8.2s
+Vehicle 1
+--> road: test0
+--> position: 57.6422
+--> speed: 11.2475
+
+Time: 8.21667s
+Vehicle 1
+--> road: test0
+--> position: 57.8301
+--> speed: 11.2665
+
+Time: 8.23333s
+Vehicle 1
+--> road: test0
+--> position: 58.0184
+--> speed: 11.2854
+
+Time: 8.25s
+Vehicle 1
+--> road: test0
+--> position: 58.2069
+--> speed: 11.3043
+
+Time: 8.26667s
+Vehicle 1
+--> road: test0
+--> position: 58.3958
+--> speed: 11.3231
+
+Time: 8.28333s
+Vehicle 1
+--> road: test0
+--> position: 58.585
+--> speed: 11.3419
+
+Time: 8.3s
+Vehicle 1
+--> road: test0
+--> position: 58.7745
+--> speed: 11.3607
+
+Time: 8.31667s
+Vehicle 1
+--> road: test0
+--> position: 58.9643
+--> speed: 11.3794
+
+Time: 8.33333s
+Vehicle 1
+--> road: test0
+--> position: 59.1544
+--> speed: 11.3981
+
+Time: 8.35s
+Vehicle 1
+--> road: test0
+--> position: 59.3449
+--> speed: 11.4168
+
+Time: 8.36667s
+Vehicle 1
+--> road: test0
+--> position: 59.5356
+--> speed: 11.4354
+
+Time: 8.38333s
+Vehicle 1
+--> road: test0
+--> position: 59.7267
+--> speed: 11.454
+
+Time: 8.4s
+Vehicle 1
+--> road: test0
+--> position: 59.918
+--> speed: 11.4726
+
+Time: 8.41667s
+Vehicle 1
+--> road: test0
+--> position: 60.1097
+--> speed: 11.4911
+
+Time: 8.43333s
+Vehicle 1
+--> road: test0
+--> position: 60.3017
+--> speed: 11.5096
+
+Time: 8.45s
+Vehicle 1
+--> road: test0
+--> position: 60.494
+--> speed: 11.528
+
+Time: 8.46667s
+Vehicle 1
+--> road: test0
+--> position: 60.6866
+--> speed: 11.5464
+
+Time: 8.48333s
+Vehicle 1
+--> road: test0
+--> position: 60.8795
+--> speed: 11.5648
+
+Time: 8.5s
+Vehicle 1
+--> road: test0
+--> position: 61.0727
+--> speed: 11.5832
+
+Time: 8.51667s
+Vehicle 1
+--> road: test0
+--> position: 61.2662
+--> speed: 11.6015
+
+Time: 8.53333s
+Vehicle 1
+--> road: test0
+--> position: 61.46
+--> speed: 11.6198
+
+Time: 8.55s
+Vehicle 1
+--> road: test0
+--> position: 61.6541
+--> speed: 11.638
+
+Time: 8.56667s
+Vehicle 1
+--> road: test0
+--> position: 61.8485
+--> speed: 11.6562
+
+Time: 8.58333s
+Vehicle 1
+--> road: test0
+--> position: 62.0433
+--> speed: 11.6744
+
+Time: 8.6s
+Vehicle 1
+--> road: test0
+--> position: 62.2383
+--> speed: 11.6925
+
+Time: 8.61667s
+Vehicle 1
+--> road: test0
+--> position: 62.4336
+--> speed: 11.7106
+
+Time: 8.63333s
+Vehicle 1
+--> road: test0
+--> position: 62.6292
+--> speed: 11.7286
+
+Time: 8.65s
+Vehicle 1
+--> road: test0
+--> position: 62.8252
+--> speed: 11.7467
+
+Time: 8.66667s
+Vehicle 1
+--> road: test0
+--> position: 63.0214
+--> speed: 11.7646
+
+Time: 8.68333s
+Vehicle 1
+--> road: test0
+--> position: 63.2179
+--> speed: 11.7826
+
+Time: 8.7s
+Vehicle 1
+--> road: test0
+--> position: 63.4147
+--> speed: 11.8005
+
+Time: 8.71667s
+Vehicle 1
+--> road: test0
+--> position: 63.6119
+--> speed: 11.8184
+
+Time: 8.73333s
+Vehicle 1
+--> road: test0
+--> position: 63.8093
+--> speed: 11.8362
+
+Time: 8.75s
+Vehicle 1
+--> road: test0
+--> position: 64.007
+--> speed: 11.854
+
+Time: 8.76667s
+Vehicle 1
+--> road: test0
+--> position: 64.205
+--> speed: 11.8717
+
+Time: 8.78333s
+Vehicle 1
+--> road: test0
+--> position: 64.4033
+--> speed: 11.8895
+
+Time: 8.8s
+Vehicle 1
+--> road: test0
+--> position: 64.6019
+--> speed: 11.9072
+
+Time: 8.81667s
+Vehicle 1
+--> road: test0
+--> position: 64.8008
+--> speed: 11.9248
+
+Time: 8.83333s
+Vehicle 1
+--> road: test0
+--> position: 65
+--> speed: 11.9424
+
+Time: 8.85s
+Vehicle 1
+--> road: test0
+--> position: 65.1995
+--> speed: 11.96
+
+Time: 8.86667s
+Vehicle 1
+--> road: test0
+--> position: 65.3992
+--> speed: 11.9775
+
+Time: 8.88333s
+Vehicle 1
+--> road: test0
+--> position: 65.5993
+--> speed: 11.995
+
+Time: 8.9s
+Vehicle 1
+--> road: test0
+--> position: 65.7997
+--> speed: 12.0125
+
+Time: 8.91667s
+Vehicle 1
+--> road: test0
+--> position: 66.0003
+--> speed: 12.0299
+
+Time: 8.93333s
+Vehicle 1
+--> road: test0
+--> position: 66.2012
+--> speed: 12.0473
+
+Time: 8.95s
+Vehicle 1
+--> road: test0
+--> position: 66.4025
+--> speed: 12.0646
+
+Time: 8.96667s
+Vehicle 1
+--> road: test0
+--> position: 66.604
+--> speed: 12.0819
+
+Time: 8.98333s
+Vehicle 1
+--> road: test0
+--> position: 66.8058
+--> speed: 12.0992
+
+Time: 9s
+Vehicle 1
+--> road: test0
+--> position: 67.0078
+--> speed: 12.1164
+
+Time: 9.01667s
+Vehicle 1
+--> road: test0
+--> position: 67.2102
+--> speed: 12.1336
+
+Time: 9.03333s
+Vehicle 1
+--> road: test0
+--> position: 67.4129
+--> speed: 12.1507
+
+Time: 9.05s
+Vehicle 1
+--> road: test0
+--> position: 67.6158
+--> speed: 12.1679
+
+Time: 9.06667s
+Vehicle 1
+--> road: test0
+--> position: 67.819
+--> speed: 12.1849
+
+Time: 9.08333s
+Vehicle 1
+--> road: test0
+--> position: 68.0225
+--> speed: 12.202
+
+Time: 9.1s
+Vehicle 1
+--> road: test0
+--> position: 68.2263
+--> speed: 12.2189
+
+Time: 9.11667s
+Vehicle 1
+--> road: test0
+--> position: 68.4304
+--> speed: 12.2359
+
+Time: 9.13333s
+Vehicle 1
+--> road: test0
+--> position: 68.6348
+--> speed: 12.2528
+
+Time: 9.15s
+Vehicle 1
+--> road: test0
+--> position: 68.8394
+--> speed: 12.2697
+
+Time: 9.16667s
+Vehicle 1
+--> road: test0
+--> position: 69.0443
+--> speed: 12.2865
+
+Time: 9.18333s
+Vehicle 1
+--> road: test0
+--> position: 69.2495
+--> speed: 12.3033
+
+Time: 9.2s
+Vehicle 1
+--> road: test0
+--> position: 69.455
+--> speed: 12.3201
+
+Time: 9.21667s
+Vehicle 1
+--> road: test0
+--> position: 69.6607
+--> speed: 12.3368
+
+Time: 9.23333s
+Vehicle 1
+--> road: test0
+--> position: 69.8668
+--> speed: 12.3535
+
+Time: 9.25s
+Vehicle 1
+--> road: test0
+--> position: 70.0731
+--> speed: 12.3701
+
+Time: 9.26667s
+Vehicle 1
+--> road: test0
+--> position: 70.2797
+--> speed: 12.3867
+
+Time: 9.28333s
+Vehicle 1
+--> road: test0
+--> position: 70.4865
+--> speed: 12.4033
+
+Time: 9.3s
+Vehicle 1
+--> road: test0
+--> position: 70.6936
+--> speed: 12.4198
+
+Time: 9.31667s
+Vehicle 1
+--> road: test0
+--> position: 70.9011
+--> speed: 12.4363
+
+Time: 9.33333s
+Vehicle 1
+--> road: test0
+--> position: 71.1087
+--> speed: 12.4527
+
+Time: 9.35s
+Vehicle 1
+--> road: test0
+--> position: 71.3167
+--> speed: 12.4691
+
+Time: 9.36667s
+Vehicle 1
+--> road: test0
+--> position: 71.5249
+--> speed: 12.4855
+
+Time: 9.38333s
+Vehicle 1
+--> road: test0
+--> position: 71.7334
+--> speed: 12.5018
+
+Time: 9.4s
+Vehicle 1
+--> road: test0
+--> position: 71.9422
+--> speed: 12.5181
+
+Time: 9.41667s
+Vehicle 1
+--> road: test0
+--> position: 72.1512
+--> speed: 12.5343
+
+Time: 9.43333s
+Vehicle 1
+--> road: test0
+--> position: 72.3605
+--> speed: 12.5505
+
+Time: 9.45s
+Vehicle 1
+--> road: test0
+--> position: 72.5701
+--> speed: 12.5667
+
+Time: 9.46667s
+Vehicle 1
+--> road: test0
+--> position: 72.78
+--> speed: 12.5828
+
+Time: 9.48333s
+Vehicle 1
+--> road: test0
+--> position: 72.9901
+--> speed: 12.5989
+
+Time: 9.5s
+Vehicle 1
+--> road: test0
+--> position: 73.2005
+--> speed: 12.6149
+
+Time: 9.51667s
+Vehicle 1
+--> road: test0
+--> position: 73.4111
+--> speed: 12.6309
+
+Time: 9.53333s
+Vehicle 1
+--> road: test0
+--> position: 73.622
+--> speed: 12.6469
+
+Time: 9.55s
+Vehicle 1
+--> road: test0
+--> position: 73.8332
+--> speed: 12.6628
+
+Time: 9.56667s
+Vehicle 1
+--> road: test0
+--> position: 74.0446
+--> speed: 12.6786
+
+Time: 9.58333s
+Vehicle 1
+--> road: test0
+--> position: 74.2564
+--> speed: 12.6945
+
+Time: 9.6s
+Vehicle 1
+--> road: test0
+--> position: 74.4683
+--> speed: 12.7103
+
+Time: 9.61667s
+Vehicle 1
+--> road: test0
+--> position: 74.6806
+--> speed: 12.726
+
+Time: 9.63333s
+Vehicle 1
+--> road: test0
+--> position: 74.893
+--> speed: 12.7417
+
+Time: 9.65s
+Vehicle 1
+--> road: test0
+--> position: 75.1058
+--> speed: 12.7574
+
+Time: 9.66667s
+Vehicle 1
+--> road: test0
+--> position: 75.3188
+--> speed: 12.773
+
+Time: 9.68333s
+Vehicle 1
+--> road: test0
+--> position: 75.5321
+--> speed: 12.7886
+
+Time: 9.7s
+Vehicle 1
+--> road: test0
+--> position: 75.7456
+--> speed: 12.8042
+
+Time: 9.71667s
+Vehicle 1
+--> road: test0
+--> position: 75.9594
+--> speed: 12.8197
+
+Time: 9.73333s
+Vehicle 1
+--> road: test0
+--> position: 76.1735
+--> speed: 12.8351
+
+Time: 9.75s
+Vehicle 1
+--> road: test0
+--> position: 76.3878
+--> speed: 12.8505
+
+Time: 9.76667s
+Vehicle 1
+--> road: test0
+--> position: 76.6023
+--> speed: 12.8659
+
+Time: 9.78333s
+Vehicle 1
+--> road: test0
+--> position: 76.8171
+--> speed: 12.8813
+
+Time: 9.8s
+Vehicle 1
+--> road: test0
+--> position: 77.0322
+--> speed: 12.8966
+
+Time: 9.81667s
+Vehicle 1
+--> road: test0
+--> position: 77.2475
+--> speed: 12.9118
+
+Time: 9.83333s
+Vehicle 1
+--> road: test0
+--> position: 77.4631
+--> speed: 12.927
+
+Time: 9.85s
+Vehicle 1
+--> road: test0
+--> position: 77.6789
+--> speed: 12.9422
+
+Time: 9.86667s
+Vehicle 1
+--> road: test0
+--> position: 77.895
+--> speed: 12.9573
+
+Time: 9.88333s
+Vehicle 1
+--> road: test0
+--> position: 78.1114
+--> speed: 12.9724
+
+Time: 9.9s
+Vehicle 1
+--> road: test0
+--> position: 78.3279
+--> speed: 12.9875
+
+Time: 9.91667s
+Vehicle 1
+--> road: test0
+--> position: 78.5448
+--> speed: 13.0025
+
+Time: 9.93333s
+Vehicle 1
+--> road: test0
+--> position: 78.7619
+--> speed: 13.0175
+
+Time: 9.95s
+Vehicle 1
+--> road: test0
+--> position: 78.9792
+--> speed: 13.0324
+
+Time: 9.96667s
+Vehicle 1
+--> road: test0
+--> position: 79.1968
+--> speed: 13.0473
+
+Time: 9.98333s
+Vehicle 1
+--> road: test0
+--> position: 79.4146
+--> speed: 13.0621
+
+Time: 10s
+Vehicle 1
+--> road: test0
+--> position: 79.6327
+--> speed: 13.0769
+
+Time: 10.0167s
+Vehicle 1
+--> road: test0
+--> position: 79.851
+--> speed: 13.0917
+
+Time: 10.0333s
+Vehicle 1
+--> road: test0
+--> position: 80.0695
+--> speed: 13.1064
+
+Time: 10.05s
+Vehicle 1
+--> road: test0
+--> position: 80.2883
+--> speed: 13.1211
+
+Time: 10.0667s
+Vehicle 1
+--> road: test0
+--> position: 80.5074
+--> speed: 13.1357
+
+Time: 10.0833s
+Vehicle 1
+--> road: test0
+--> position: 80.7267
+--> speed: 13.1503
+
+Time: 10.1s
+Vehicle 1
+--> road: test0
+--> position: 80.9462
+--> speed: 13.1648
+
+Time: 10.1167s
+Vehicle 1
+--> road: test0
+--> position: 81.166
+--> speed: 13.1793
+
+Time: 10.1333s
+Vehicle 1
+--> road: test0
+--> position: 81.386
+--> speed: 13.1938
+
+Time: 10.15s
+Vehicle 1
+--> road: test0
+--> position: 81.6063
+--> speed: 13.2082
+
+Time: 10.1667s
+Vehicle 1
+--> road: test0
+--> position: 81.8268
+--> speed: 13.2226
+
+Time: 10.1833s
+Vehicle 1
+--> road: test0
+--> position: 82.0475
+--> speed: 13.2369
+
+Time: 10.2s
+Vehicle 1
+--> road: test0
+--> position: 82.2685
+--> speed: 13.2512
+
+Time: 10.2167s
+Vehicle 1
+--> road: test0
+--> position: 82.4897
+--> speed: 13.2655
+
+Time: 10.2333s
+Vehicle 1
+--> road: test0
+--> position: 82.7111
+--> speed: 13.2797
+
+Time: 10.25s
+Vehicle 1
+--> road: test0
+--> position: 82.9328
+--> speed: 13.2939
+
+Time: 10.2667s
+Vehicle 1
+--> road: test0
+--> position: 83.1547
+--> speed: 13.308
+
+Time: 10.2833s
+Vehicle 1
+--> road: test0
+--> position: 83.3769
+--> speed: 13.3221
+
+Time: 10.3s
+Vehicle 1
+--> road: test0
+--> position: 83.5993
+--> speed: 13.3361
+
+Time: 10.3167s
+Vehicle 1
+--> road: test0
+--> position: 83.8219
+--> speed: 13.3501
+
+Time: 10.3333s
+Vehicle 1
+--> road: test0
+--> position: 84.0447
+--> speed: 13.3641
+
+Time: 10.35s
+Vehicle 1
+--> road: test0
+--> position: 84.2678
+--> speed: 13.378
+
+Time: 10.3667s
+Vehicle 1
+--> road: test0
+--> position: 84.4911
+--> speed: 13.3919
+
+Time: 10.3833s
+Vehicle 1
+--> road: test0
+--> position: 84.7147
+--> speed: 13.4057
+
+Time: 10.4s
+Vehicle 1
+--> road: test0
+--> position: 84.9385
+--> speed: 13.4195
+
+Time: 10.4167s
+Vehicle 1
+--> road: test0
+--> position: 85.1625
+--> speed: 13.4333
+
+Time: 10.4333s
+Vehicle 1
+--> road: test0
+--> position: 85.3867
+--> speed: 13.447
+
+Time: 10.45s
+Vehicle 1
+--> road: test0
+--> position: 85.6112
+--> speed: 13.4606
+
+Time: 10.4667s
+Vehicle 1
+--> road: test0
+--> position: 85.8358
+--> speed: 13.4743
+
+Time: 10.4833s
+Vehicle 1
+--> road: test0
+--> position: 86.0607
+--> speed: 13.4878
+
+Time: 10.5s
+Vehicle 1
+--> road: test0
+--> position: 86.2859
+--> speed: 13.5014
+
+Time: 10.5167s
+Vehicle 1
+--> road: test0
+--> position: 86.5112
+--> speed: 13.5149
+
+Time: 10.5333s
+Vehicle 1
+--> road: test0
+--> position: 86.7368
+--> speed: 13.5283
+
+Time: 10.55s
+Vehicle 1
+--> road: test0
+--> position: 86.9626
+--> speed: 13.5417
+
+Time: 10.5667s
+Vehicle 1
+--> road: test0
+--> position: 87.1887
+--> speed: 13.5551
+
+Time: 10.5833s
+Vehicle 1
+--> road: test0
+--> position: 87.4149
+--> speed: 13.5684
+
+Time: 10.6s
+Vehicle 1
+--> road: test0
+--> position: 87.6414
+--> speed: 13.5817
+
+Time: 10.6167s
+Vehicle 1
+--> road: test0
+--> position: 87.8681
+--> speed: 13.595
+
+Time: 10.6333s
+Vehicle 1
+--> road: test0
+--> position: 88.095
+--> speed: 13.6082
+
+Time: 10.65s
+Vehicle 1
+--> road: test0
+--> position: 88.3221
+--> speed: 13.6213
+
+Time: 10.6667s
+Vehicle 1
+--> road: test0
+--> position: 88.5495
+--> speed: 13.6345
+
+Time: 10.6833s
+Vehicle 1
+--> road: test0
+--> position: 88.777
+--> speed: 13.6475
+
+Time: 10.7s
+Vehicle 1
+--> road: test0
+--> position: 89.0048
+--> speed: 13.6606
+
+Time: 10.7167s
+Vehicle 1
+--> road: test0
+--> position: 89.2328
+--> speed: 13.6736
+
+Time: 10.7333s
+Vehicle 1
+--> road: test0
+--> position: 89.461
+--> speed: 13.6865
+
+Time: 10.75s
+Vehicle 1
+--> road: test0
+--> position: 89.6895
+--> speed: 13.6994
+
+Time: 10.7667s
+Vehicle 1
+--> road: test0
+--> position: 89.9181
+--> speed: 13.7123
+
+Time: 10.7833s
+Vehicle 1
+--> road: test0
+--> position: 90.147
+--> speed: 13.7251
+
+Time: 10.8s
+Vehicle 1
+--> road: test0
+--> position: 90.3761
+--> speed: 13.7379
+
+Time: 10.8167s
+Vehicle 1
+--> road: test0
+--> position: 90.6053
+--> speed: 13.7506
+
+Time: 10.8333s
+Vehicle 1
+--> road: test0
+--> position: 90.8348
+--> speed: 13.7633
+
+Time: 10.85s
+Vehicle 1
+--> road: test0
+--> position: 91.0645
+--> speed: 13.776
+
+Time: 10.8667s
+Vehicle 1
+--> road: test0
+--> position: 91.2945
+--> speed: 13.7886
+
+Time: 10.8833s
+Vehicle 1
+--> road: test0
+--> position: 91.5246
+--> speed: 13.8012
+
+Time: 10.9s
+Vehicle 1
+--> road: test0
+--> position: 91.7549
+--> speed: 13.8137
+
+Time: 10.9167s
+Vehicle 1
+--> road: test0
+--> position: 91.9855
+--> speed: 13.8262
+
+Time: 10.9333s
+Vehicle 1
+--> road: test0
+--> position: 92.2162
+--> speed: 13.8387
+
+Time: 10.95s
+Vehicle 1
+--> road: test0
+--> position: 92.4472
+--> speed: 13.8511
+
+Time: 10.9667s
+Vehicle 1
+--> road: test0
+--> position: 92.6783
+--> speed: 13.8634
+
+Time: 10.9833s
+Vehicle 1
+--> road: test0
+--> position: 92.9097
+--> speed: 13.8758
+
+Time: 11s
+Vehicle 1
+--> road: test0
+--> position: 93.1413
+--> speed: 13.8881
+
+Time: 11.0167s
+Vehicle 1
+--> road: test0
+--> position: 93.373
+--> speed: 13.9003
+
+Time: 11.0333s
+Vehicle 1
+--> road: test0
+--> position: 93.605
+--> speed: 13.9125
+
+Time: 11.05s
+Vehicle 1
+--> road: test0
+--> position: 93.8372
+--> speed: 13.9247
+
+Time: 11.0667s
+Vehicle 1
+--> road: test0
+--> position: 94.0696
+--> speed: 13.9368
+
+Time: 11.0833s
+Vehicle 1
+--> road: test0
+--> position: 94.3021
+--> speed: 13.9488
+
+Time: 11.1s
+Vehicle 1
+--> road: test0
+--> position: 94.5349
+--> speed: 13.9609
+
+Time: 11.1167s
+Vehicle 1
+--> road: test0
+--> position: 94.7679
+--> speed: 13.9729
+
+Time: 11.1333s
+Vehicle 1
+--> road: test0
+--> position: 95.0011
+--> speed: 13.9848
+
+Time: 11.15s
+Vehicle 1
+--> road: test0
+--> position: 95.2345
+--> speed: 13.9967
+
+Time: 11.1667s
+Vehicle 1
+--> road: test0
+--> position: 95.468
+--> speed: 14.0086
+
+Time: 11.1833s
+Vehicle 1
+--> road: test0
+--> position: 95.7018
+--> speed: 14.0204
+
+Time: 11.2s
+Vehicle 1
+--> road: test0
+--> position: 95.9358
+--> speed: 14.0322
+
+Time: 11.2167s
+Vehicle 1
+--> road: test0
+--> position: 96.1699
+--> speed: 14.044
+
+Time: 11.2333s
+Vehicle 1
+--> road: test0
+--> position: 96.4043
+--> speed: 14.0557
+
+Time: 11.25s
+Vehicle 1
+--> road: test0
+--> position: 96.6389
+--> speed: 14.0673
+
+Time: 11.2667s
+Vehicle 1
+--> road: test0
+--> position: 96.8736
+--> speed: 14.079
+
+Time: 11.2833s
+Vehicle 1
+--> road: test0
+--> position: 97.1085
+--> speed: 14.0905
+
+Time: 11.3s
+Vehicle 1
+--> road: test0
+--> position: 97.3437
+--> speed: 14.1021
+
+Time: 11.3167s
+Vehicle 1
+--> road: test0
+--> position: 97.579
+--> speed: 14.1136
+
+Time: 11.3333s
+Vehicle 1
+--> road: test0
+--> position: 97.8145
+--> speed: 14.125
+
+Time: 11.35s
+Vehicle 1
+--> road: test0
+--> position: 98.0502
+--> speed: 14.1365
+
+Time: 11.3667s
+Vehicle 1
+--> road: test0
+--> position: 98.2861
+--> speed: 14.1478
+
+Time: 11.3833s
+Vehicle 1
+--> road: test0
+--> position: 98.5222
+--> speed: 14.1592
+
+Time: 11.4s
+Vehicle 1
+--> road: test0
+--> position: 98.7585
+--> speed: 14.1705
+
+Time: 11.4167s
+Vehicle 1
+--> road: test0
+--> position: 98.9949
+--> speed: 14.1817
+
+Time: 11.4333s
+Vehicle 1
+--> road: test0
+--> position: 99.2316
+--> speed: 14.1929
+
+Time: 11.45s
+Vehicle 1
+--> road: test0
+--> position: 99.4684
+--> speed: 14.2041
+
+Time: 11.4667s
+Vehicle 1
+--> road: test0
+--> position: 99.7054
+--> speed: 14.2153
+
+Time: 11.4833s
+Vehicle 1
+--> road: test0
+--> position: 99.9426
+--> speed: 14.2263
+
+Time: 11.5s
+Time: 11.5167s
+Time: 11.5333s
+Time: 11.55s
+Time: 11.5667s
+Time: 11.5833s
+Time: 11.6s
+Time: 11.6167s
+Time: 11.6333s
+Time: 11.65s
+Time: 11.6667s
+Time: 11.6833s
+Time: 11.7s
+Time: 11.7167s
+Time: 11.7333s
+Time: 11.75s
+Time: 11.7667s
+Time: 11.7833s
+Time: 11.8s
+Time: 11.8167s
+Time: 11.8333s
+Time: 11.85s
+Time: 11.8667s
+Time: 11.8833s
+Time: 11.9s
+Time: 11.9167s
+Time: 11.9333s
+Time: 11.95s
+Time: 11.9667s
+Time: 11.9833s
+Time: 12s
+Time: 12.0167s
+Time: 12.0333s
+Time: 12.05s
+Time: 12.0667s
+Time: 12.0833s
+Time: 12.1s
+Time: 12.1167s
+Time: 12.1333s
+Time: 12.15s
+Time: 12.1667s
+Time: 12.1833s
+Time: 12.2s
+Time: 12.2167s
+Time: 12.2333s
+Time: 12.25s
+Time: 12.2667s
+Time: 12.2833s
+Time: 12.3s
+Time: 12.3167s
+Time: 12.3333s
+Time: 12.35s
+Time: 12.3667s
+Time: 12.3833s
+Time: 12.4s
+Time: 12.4167s
+Time: 12.4333s
+Time: 12.45s
+Time: 12.4667s
+Time: 12.4833s
+Time: 12.5s
+Time: 12.5167s
+Time: 12.5333s
+Time: 12.55s
+Time: 12.5667s
+Time: 12.5833s
+Time: 12.6s
+Time: 12.6167s
+Time: 12.6333s
+Time: 12.65s
+Time: 12.6667s
+Time: 12.6833s
+Time: 12.7s
+Time: 12.7167s
+Time: 12.7333s
+Time: 12.75s
+Time: 12.7667s
+Time: 12.7833s
+Time: 12.8s
+Time: 12.8167s
+Time: 12.8333s
+Time: 12.85s
+Time: 12.8667s
+Time: 12.8833s
+Time: 12.9s
+Time: 12.9167s
+Time: 12.9333s
+Time: 12.95s
+Time: 12.9667s
+Time: 12.9833s
+Time: 13s
+Time: 13.0167s
+Time: 13.0333s
+Time: 13.05s
+Time: 13.0667s
+Time: 13.0833s
+Time: 13.1s
+Time: 13.1167s
+Time: 13.1333s
+Time: 13.15s
+Time: 13.1667s
+Time: 13.1833s
+Time: 13.2s
+Time: 13.2167s
+Time: 13.2333s
+Time: 13.25s
+Time: 13.2667s
+Time: 13.2833s
+Time: 13.3s
+Time: 13.3167s
+Time: 13.3333s
+Time: 13.35s
+Time: 13.3667s
+Time: 13.3833s
+Time: 13.4s
+Time: 13.4167s
+Time: 13.4333s
+Time: 13.45s
+Time: 13.4667s
+Time: 13.4833s
+Time: 13.5s
+Time: 13.5167s
+Time: 13.5333s
+Time: 13.55s
+Time: 13.5667s
+Time: 13.5833s
+Time: 13.6s
+Time: 13.6167s
+Time: 13.6333s
+Time: 13.65s
+Time: 13.6667s
+Time: 13.6833s
+Time: 13.7s
+Time: 13.7167s
+Time: 13.7333s
+Time: 13.75s
+Time: 13.7667s
+Time: 13.7833s
+Time: 13.8s
+Time: 13.8167s
+Time: 13.8333s
+Time: 13.85s
+Time: 13.8667s
+Time: 13.8833s
+Time: 13.9s
+Time: 13.9167s
+Time: 13.9333s
+Time: 13.95s
+Time: 13.9667s
+Time: 13.9833s
+Time: 14s
+Time: 14.0167s
+Time: 14.0333s
+Time: 14.05s
+Time: 14.0667s
+Time: 14.0833s
+Time: 14.1s
+Time: 14.1167s
+Time: 14.1333s
+Time: 14.15s
+Time: 14.1667s
+Time: 14.1833s
+Time: 14.2s
+Time: 14.2167s
+Time: 14.2333s
+Time: 14.25s
+Time: 14.2667s
+Time: 14.2833s
+Time: 14.3s
+Time: 14.3167s
+Time: 14.3333s
+Time: 14.35s
+Time: 14.3667s
+Time: 14.3833s
+Time: 14.4s
+Time: 14.4167s
+Time: 14.4333s
+Time: 14.45s
+Time: 14.4667s
+Time: 14.4833s
+Time: 14.5s
+Time: 14.5167s
+Time: 14.5333s
+Time: 14.55s
+Time: 14.5667s
+Time: 14.5833s
+Time: 14.6s
+Time: 14.6167s
+Time: 14.6333s
+Time: 14.65s
+Time: 14.6667s
+Time: 14.6833s
+Time: 14.7s
+Time: 14.7167s
+Time: 14.7333s
+Time: 14.75s
+Time: 14.7667s
+Time: 14.7833s
+Time: 14.8s
+Time: 14.8167s
+Time: 14.8333s
+Time: 14.85s
+Time: 14.8667s
+Time: 14.8833s
+Time: 14.9s
+Time: 14.9167s
+Time: 14.9333s
+Time: 14.95s
+Time: 14.9667s
+Time: 14.9833s
+Time: 15s
+Time: 15.0167s
+Time: 15.0333s
+Time: 15.05s
+Time: 15.0667s
+Time: 15.0833s
+Time: 15.1s
+Time: 15.1167s
+Time: 15.1333s
+Time: 15.15s
+Time: 15.1667s
+Time: 15.1833s
+Time: 15.2s
+Time: 15.2167s
+Time: 15.2333s
+Time: 15.25s
+Time: 15.2667s
+Time: 15.2833s
+Time: 15.3s
+Time: 15.3167s
+Time: 15.3333s
+Time: 15.35s
+Time: 15.3667s
+Time: 15.3833s
+Time: 15.4s
+Time: 15.4167s
+Time: 15.4333s
+Time: 15.45s
+Time: 15.4667s
+Time: 15.4833s
+Time: 15.5s
+Time: 15.5167s
+Time: 15.5333s
+Time: 15.55s
+Time: 15.5667s
+Time: 15.5833s
+Time: 15.6s
+Time: 15.6167s
+Time: 15.6333s
+Time: 15.65s
+Time: 15.6667s
+Time: 15.6833s
+Time: 15.7s
+Time: 15.7167s
+Time: 15.7333s
+Time: 15.75s
+Time: 15.7667s
+Time: 15.7833s
+Time: 15.8s
+Time: 15.8167s
+Time: 15.8333s
+Time: 15.85s
+Time: 15.8667s
+Time: 15.8833s
+Time: 15.9s
+Time: 15.9167s
+Time: 15.9333s
+Time: 15.95s
+Time: 15.9667s
+Time: 15.9833s
+Time: 16s
+Time: 16.0167s
+Time: 16.0333s
+Time: 16.05s
+Time: 16.0667s
+Time: 16.0833s
+Time: 16.1s
+Time: 16.1167s
+Time: 16.1333s
+Time: 16.15s
+Time: 16.1667s
+Time: 16.1833s
+Time: 16.2s
+Time: 16.2167s
+Time: 16.2333s
+Time: 16.25s
+Time: 16.2667s
+Time: 16.2833s
+Time: 16.3s
+Time: 16.3167s
+Time: 16.3333s
+Time: 16.35s
+Time: 16.3667s
+Time: 16.3833s
+Time: 16.4s
+Time: 16.4167s
+Time: 16.4333s
+Time: 16.45s
+Time: 16.4667s
+Time: 16.4833s
+Time: 16.5s
+Time: 16.5167s
+Time: 16.5333s
+Time: 16.55s
+Time: 16.5667s
+Time: 16.5833s
+Time: 16.6s
+Time: 16.6167s
+Time: 16.6333s
+Time: 16.65s
+Time: 16.6667s
+Time: 16.6833s
+Time: 16.7s
+Time: 16.7167s
+Time: 16.7333s
+Time: 16.75s
+Time: 16.7667s
+Time: 16.7833s
+Time: 16.8s
+Time: 16.8167s
+Time: 16.8333s
+Time: 16.85s
+Time: 16.8667s
+Time: 16.8833s
+Time: 16.9s
+Time: 16.9167s
+Time: 16.9333s
+Time: 16.95s
+Time: 16.9667s
+Time: 16.9833s
+Time: 17s
+Time: 17.0167s
+Time: 17.0333s
+Time: 17.05s
+Time: 17.0667s
+Time: 17.0833s
+Time: 17.1s
+Time: 17.1167s
+Time: 17.1333s
+Time: 17.15s
+Time: 17.1667s
+Time: 17.1833s
+Time: 17.2s
+Time: 17.2167s
+Time: 17.2333s
+Time: 17.25s
+Time: 17.2667s
+Time: 17.2833s
+Time: 17.3s
+Time: 17.3167s
+Time: 17.3333s
+Time: 17.35s
+Time: 17.3667s
+Time: 17.3833s
+Time: 17.4s
+Time: 17.4167s
+Time: 17.4333s
+Time: 17.45s
+Time: 17.4667s
+Time: 17.4833s
+Time: 17.5s
+Time: 17.5167s
+Time: 17.5333s
+Time: 17.55s
+Time: 17.5667s
+Time: 17.5833s
+Time: 17.6s
+Time: 17.6167s
+Time: 17.6333s
+Time: 17.65s
+Time: 17.6667s
+Time: 17.6833s
+Time: 17.7s
+Time: 17.7167s
+Time: 17.7333s
+Time: 17.75s
+Time: 17.7667s
+Time: 17.7833s
+Time: 17.8s
+Time: 17.8167s
+Time: 17.8333s
+Time: 17.85s
+Time: 17.8667s
+Time: 17.8833s
+Time: 17.9s
+Time: 17.9167s
+Time: 17.9333s
+Time: 17.95s
+Time: 17.9667s
+Time: 17.9833s
+Time: 18s
+Time: 18.0167s
+Time: 18.0333s
+Time: 18.05s
+Time: 18.0667s
+Time: 18.0833s
+Time: 18.1s
+Time: 18.1167s
+Time: 18.1333s
+Time: 18.15s
+Time: 18.1667s
+Time: 18.1833s
+Time: 18.2s
+Time: 18.2167s
+Time: 18.2333s
+Time: 18.25s
+Time: 18.2667s
+Time: 18.2833s
+Time: 18.3s
+Time: 18.3167s
+Time: 18.3333s
+Time: 18.35s
+Time: 18.3667s
+Time: 18.3833s
+Time: 18.4s
+Time: 18.4167s
+Time: 18.4333s
+Time: 18.45s
+Time: 18.4667s
+Time: 18.4833s
+Time: 18.5s
+Time: 18.5167s
+Time: 18.5333s
+Time: 18.55s
+Time: 18.5667s
+Time: 18.5833s
+Time: 18.6s
+Time: 18.6167s
+Time: 18.6333s
+Time: 18.65s
+Time: 18.6667s
+Time: 18.6833s
+Time: 18.7s
+Time: 18.7167s
+Time: 18.7333s
+Time: 18.75s
+Time: 18.7667s
+Time: 18.7833s
+Time: 18.8s
+Time: 18.8167s
+Time: 18.8333s
+Time: 18.85s
+Time: 18.8667s
+Time: 18.8833s
+Time: 18.9s
+Time: 18.9167s
+Time: 18.9333s
+Time: 18.95s
+Time: 18.9667s
+Time: 18.9833s
+Time: 19s
+Time: 19.0167s
+Time: 19.0333s
+Time: 19.05s
+Time: 19.0667s
+Time: 19.0833s
+Time: 19.1s
+Time: 19.1167s
+Time: 19.1333s
+Time: 19.15s
+Time: 19.1667s
+Time: 19.1833s
+Time: 19.2s
+Time: 19.2167s
+Time: 19.2333s
+Time: 19.25s
+Time: 19.2667s
+Time: 19.2833s
+Time: 19.3s
+Time: 19.3167s
+Time: 19.3333s
+Time: 19.35s
+Time: 19.3667s
+Time: 19.3833s
+Time: 19.4s
+Time: 19.4167s
+Time: 19.4333s
+Time: 19.45s
+Time: 19.4667s
+Time: 19.4833s
+Time: 19.5s
+Time: 19.5167s
+Time: 19.5333s
+Time: 19.55s
+Time: 19.5667s
+Time: 19.5833s
+Time: 19.6s
+Time: 19.6167s
+Time: 19.6333s
+Time: 19.65s
+Time: 19.6667s
+Time: 19.6833s
+Time: 19.7s
+Time: 19.7167s
+Time: 19.7333s
+Time: 19.75s
+Time: 19.7667s
+Time: 19.7833s
+Time: 19.8s
+Time: 19.8167s
+Time: 19.8333s
+Time: 19.85s
+Time: 19.8667s
+Time: 19.8833s
+Time: 19.9s
+Time: 19.9167s
+Time: 19.9333s
+Time: 19.95s
+Time: 19.9667s
+Time: 19.9833s
+Time: 20s
+Time: 20.0167s
+Time: 20.0333s
+Time: 20.05s
+Time: 20.0667s
+Time: 20.0833s
+Time: 20.1s
+Time: 20.1167s
+Time: 20.1333s
+Time: 20.15s
+Time: 20.1667s
+Time: 20.1833s
+Time: 20.2s
+Time: 20.2167s
+Time: 20.2333s
+Time: 20.25s
+Time: 20.2667s
+Time: 20.2833s
+Time: 20.3s
+Time: 20.3167s
+Time: 20.3333s
+Time: 20.35s
+Time: 20.3667s
+Time: 20.3833s
+Time: 20.4s
+Time: 20.4167s
+Time: 20.4333s
+Time: 20.45s
+Time: 20.4667s
+Time: 20.4833s
+Time: 20.5s
+Time: 20.5167s
+Time: 20.5333s
+Time: 20.55s
+Time: 20.5667s
+Time: 20.5833s
+Time: 20.6s
+Time: 20.6167s
+Time: 20.6333s
+Time: 20.65s
+Time: 20.6667s
+Time: 20.6833s
+Time: 20.7s
+Time: 20.7167s
+Time: 20.7333s
+Time: 20.75s
+Time: 20.7667s
+Time: 20.7833s
+Time: 20.8s
+Time: 20.8167s
+Time: 20.8333s
+Time: 20.85s
+Time: 20.8667s
+Time: 20.8833s
+Time: 20.9s
+Time: 20.9167s
+Time: 20.9333s
+Time: 20.95s
+Time: 20.9667s
+Time: 20.9833s
+Time: 21s
+Time: 21.0167s
+Time: 21.0333s
+Time: 21.05s
+Time: 21.0667s
+Time: 21.0833s
+Time: 21.1s
+Time: 21.1167s
+Time: 21.1333s
+Time: 21.15s
+Time: 21.1667s
+Time: 21.1833s
+Time: 21.2s
+Time: 21.2167s
+Time: 21.2333s
+Time: 21.25s
+Time: 21.2667s
+Time: 21.2833s
+Time: 21.3s
+Time: 21.3167s
+Time: 21.3333s
+Time: 21.35s
+Time: 21.3667s
+Time: 21.3833s
+Time: 21.4s
+Time: 21.4167s
+Time: 21.4333s
+Time: 21.45s
+Time: 21.4667s
+Time: 21.4833s
+Time: 21.5s
+Time: 21.5167s
+Time: 21.5333s
+Time: 21.55s
+Time: 21.5667s
+Time: 21.5833s
+Time: 21.6s
+Time: 21.6167s
+Time: 21.6333s
+Time: 21.65s
+Time: 21.6667s
+Time: 21.6833s
+Time: 21.7s
+Time: 21.7167s
+Time: 21.7333s
+Time: 21.75s
+Time: 21.7667s
+Time: 21.7833s
+Time: 21.8s
+Time: 21.8167s
+Time: 21.8333s
+Time: 21.85s
+Time: 21.8667s
+Time: 21.8833s
+Time: 21.9s
+Time: 21.9167s
+Time: 21.9333s
+Time: 21.95s
+Time: 21.9667s
+Time: 21.9833s
+Time: 22s
+Time: 22.0167s
+Time: 22.0333s
+Time: 22.05s
+Time: 22.0667s
+Time: 22.0833s
+Time: 22.1s
+Time: 22.1167s
+Time: 22.1333s
+Time: 22.15s
+Time: 22.1667s
+Time: 22.1833s
+Time: 22.2s
+Time: 22.2167s
+Time: 22.2333s
+Time: 22.25s
+Time: 22.2667s
+Time: 22.2833s
+Time: 22.3s
+Time: 22.3167s
+Time: 22.3333s
+Time: 22.35s
+Time: 22.3667s
+Time: 22.3833s
+Time: 22.4s
+Time: 22.4167s
+Time: 22.4333s
+Time: 22.45s
+Time: 22.4667s
+Time: 22.4833s
+Time: 22.5s
+Time: 22.5167s
+Time: 22.5333s
+Time: 22.55s
+Time: 22.5667s
+Time: 22.5833s
+Time: 22.6s
+Time: 22.6167s
+Time: 22.6333s
+Time: 22.65s
+Time: 22.6667s
+Time: 22.6833s
+Time: 22.7s
+Time: 22.7167s
+Time: 22.7333s
+Time: 22.75s
+Time: 22.7667s
+Time: 22.7833s
+Time: 22.8s
+Time: 22.8167s
+Time: 22.8333s
+Time: 22.85s
+Time: 22.8667s
+Time: 22.8833s
+Time: 22.9s
+Time: 22.9167s
+Time: 22.9333s
+Time: 22.95s
+Time: 22.9667s
+Time: 22.9833s
+Time: 23s
+Time: 23.0167s
+Time: 23.0333s
+Time: 23.05s
+Time: 23.0667s
+Time: 23.0833s
+Time: 23.1s
+Time: 23.1167s
+Time: 23.1333s
+Time: 23.15s
+Time: 23.1667s
+Time: 23.1833s
+Time: 23.2s
+Time: 23.2167s
+Time: 23.2333s
+Time: 23.25s
+Time: 23.2667s
+Time: 23.2833s
+Time: 23.3s
+Time: 23.3167s
+Time: 23.3333s
+Time: 23.35s
+Time: 23.3667s
+Time: 23.3833s
+Time: 23.4s
+Time: 23.4167s
+Time: 23.4333s
+Time: 23.45s
+Time: 23.4667s
+Time: 23.4833s
+Time: 23.5s
+Time: 23.5167s
+Time: 23.5333s
+Time: 23.55s
+Time: 23.5667s
+Time: 23.5833s
+Time: 23.6s
+Time: 23.6167s
+Time: 23.6333s
+Time: 23.65s
+Time: 23.6667s
+Time: 23.6833s
+Time: 23.7s
+Time: 23.7167s
+Time: 23.7333s
+Time: 23.75s
+Time: 23.7667s
+Time: 23.7833s
+Time: 23.8s
+Time: 23.8167s
+Time: 23.8333s
+Time: 23.85s
+Time: 23.8667s
+Time: 23.8833s
+Time: 23.9s
+Time: 23.9167s
+Time: 23.9333s
+Time: 23.95s
+Time: 23.9667s
+Time: 23.9833s
+Time: 24s
+Time: 24.0167s
+Time: 24.0333s
+Time: 24.05s
+Time: 24.0667s
+Time: 24.0833s
+Time: 24.1s
+Time: 24.1167s
+Time: 24.1333s
+Time: 24.15s
+Time: 24.1667s
+Time: 24.1833s
+Time: 24.2s
+Time: 24.2167s
+Time: 24.2333s
+Time: 24.25s
+Time: 24.2667s
+Time: 24.2833s
+Time: 24.3s
+Time: 24.3167s
+Time: 24.3333s
+Time: 24.35s
+Time: 24.3667s
+Time: 24.3833s
+Time: 24.4s
+Time: 24.4167s
+Time: 24.4333s
+Time: 24.45s
+Time: 24.4667s
+Time: 24.4833s
+Time: 24.5s
+Time: 24.5167s
+Time: 24.5333s
+Time: 24.55s
+Time: 24.5667s
+Time: 24.5833s
+Time: 24.6s
+Time: 24.6167s
+Time: 24.6333s
+Time: 24.65s
+Time: 24.6667s
+Time: 24.6833s
+Time: 24.7s
+Time: 24.7167s
+Time: 24.7333s
+Time: 24.75s
+Time: 24.7667s
+Time: 24.7833s
+Time: 24.8s
+Time: 24.8167s
+Time: 24.8333s
+Time: 24.85s
+Time: 24.8667s
+Time: 24.8833s
+Time: 24.9s
+Time: 24.9167s
+Time: 24.9333s
+Time: 24.95s
+Time: 24.9667s
+Time: 24.9833s
+Time: 25s

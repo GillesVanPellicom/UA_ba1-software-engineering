@@ -1,0 +1,18 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>100</lengte>
+    </BAAN>
+
+    <BUSHALTE>
+        <baan>test1</baan>      <!-- test1 is not a known road -->
+        <positie>-10</positie>  <!-- -10 is not a valid position -->
+        <wachttijd>-10</wachttijd>  <!-- -10 is not a valid haltTime -->
+    </BUSHALTE>
+
+    <BUSHALTE>
+        <baan>test0</baan>
+        <positie>1000</positie>     <!-- 1000 is not on the road -->
+        <wachttijd>10</wachttijd>
+    </BUSHALTE>
+</ROOT>

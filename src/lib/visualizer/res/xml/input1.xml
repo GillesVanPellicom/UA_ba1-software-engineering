@@ -1,0 +1,45 @@
+<ROOT>
+    <BAAN>
+        <naam>you know what...</naam>
+        <lengte>1000</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>I might even</naam>
+        <lengte>700</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>like this project!</naam>
+        <lengte>900</lengte>
+    </BAAN>
+
+    <VOERTUIGGENERATOR>
+        <frequentie>4</frequentie>
+        <baan>you know what...</baan>
+        <type>bus</type>
+    </VOERTUIGGENERATOR>
+
+
+    <BUSHALTE>
+        <baan>I might even</baan>
+        <positie>200</positie>
+        <wachttijd>10</wachttijd>
+    </BUSHALTE>
+
+    <VERKEERSLICHT>
+        <baan>like this project!</baan>
+        <positie>300</positie>
+        <cyclus>10</cyclus>
+    </VERKEERSLICHT>
+
+    <KRUISPUNT>
+        <baan positie="30">you know what...</baan>
+        <baan positie="20">I might even</baan>
+    </KRUISPUNT>
+
+    <KRUISPUNT>
+        <baan positie="40">you know what...</baan>
+        <baan positie="10">like this project!</baan>
+    </KRUISPUNT>
+</ROOT>

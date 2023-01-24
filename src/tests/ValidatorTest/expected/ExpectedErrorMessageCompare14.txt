@@ -1,0 +1,2 @@
+[XmlValidator] Cannot create CrossRoad on road 'test0' at a position that is not an integer or that is signed (position: a).
+[XmlValidator] Cannot create CrossRoad on road 'test1' at a position that is not an integer or that is signed (position: -1).

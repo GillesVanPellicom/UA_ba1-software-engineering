@@ -1,0 +1,24 @@
+<ROOT>
+    <BAAN>
+        <naam>test</naam>
+        <lengte>20</lengte>
+    </BAAN>
+
+    <VOERTUIG>
+        <baan>test</baan>
+        <positie>0</positie>
+        <type>truck</type>          <!-- truck is not an allowed vehicle type -->
+    </VOERTUIG>
+
+    <VOERTUIG>
+        <baan>test</baan>
+        <positie>0</positie>
+        <type>foe</type>            <!-- foe is not an allowed vehicle type -->
+    </VOERTUIG>
+
+    <VOERTUIG>
+        <baan>test</baan>
+        <positie>0</positie>
+        <type></type>
+    </VOERTUIG>
+</ROOT>

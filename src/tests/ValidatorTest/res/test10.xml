@@ -1,0 +1,16 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>1000</lengte>
+    </BAAN>
+
+    <VOERTUIG>
+        <baan>test0</baan>
+        <positie>10</positie>           <!-- type of vehicle is not set -->
+    </VOERTUIG>
+
+    <VOERTUIGGENERATOR>
+        <baan>test0</baan>
+        <frequentie>10</frequentie>     <!-- type of generator is not set -->
+    </VOERTUIGGENERATOR>
+</ROOT>

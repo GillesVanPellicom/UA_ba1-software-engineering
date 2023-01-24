@@ -1,0 +1,18 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>100</lengte>
+    </BAAN>
+
+    <VOERTUIG>
+        <baan>test0</baan>
+        <positie>10</positie>
+        <type>foo</type>        <!-- 'foo' is not an existent vehicle type -->
+    </VOERTUIG>
+
+    <VOERTUIGGENERATOR>
+        <baan>test0</baan>
+        <frequentie>10</frequentie>
+        <type>bla</type>        <!-- 'bla' is not an existent vehicle type -->
+    </VOERTUIGGENERATOR>
+</ROOT>

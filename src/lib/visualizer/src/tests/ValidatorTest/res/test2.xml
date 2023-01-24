@@ -1,0 +1,84 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>
+        <lengte>a</lengte>  <!--length is not a valid integer-->
+    </BAAN>
+    <BAAN>
+        <naam>test1</naam>
+        <lengte>a10</lengte>    <!--length is not a valid integer-->
+    </BAAN>
+    <BAAN>
+        <naam>test2</naam>
+        <lengte>10a</lengte>        <!--length is not a valid integer-->
+    </BAAN>
+    <BAAN>
+        <naam>test3</naam>
+        <lengte>-1</lengte>     <!--length cannot be 0 or less-->
+    </BAAN>
+    <BAAN>
+        <naam>test4</naam>
+        <lengte>0</lengte>      <!--length cannot be zero or less-->
+    </BAAN>
+    <BAAN>
+        <naam>valid</naam>
+        <lengte>1000</lengte>
+    </BAAN>
+
+    <VERKEERSLICHT>
+        <baan>valid</baan>
+        <positie>a</positie>    <!--position is not a valid integer-->
+        <cyclus>c</cyclus>      <!--cycle is not a valid integer-->
+    </VERKEERSLICHT>
+    <VERKEERSLICHT>
+        <baan>valid</baan>
+        <positie>-1</positie>   <!--position is not valid-->
+        <cyclus>-1</cyclus>    <!--cycle is not a valid integer-->
+    </VERKEERSLICHT>
+    <VERKEERSLICHT>
+        <baan>test0</baan>      <!--road is not valid-->
+        <positie>1</positie>
+        <cyclus>1</cyclus>
+    </VERKEERSLICHT>
+    <VERKEERSLICHT>
+        <baan>valid</baan>
+        <positie>1010</positie>     <!--position is larger than length of the road-->
+        <cyclus>1</cyclus>
+    </VERKEERSLICHT>
+
+    <VOERTUIG>
+        <baan>valid</baan>
+        <positie>c</positie>    <!--position is not valid-->
+        <type>auto</type>
+    </VOERTUIG>
+    <VOERTUIG>
+        <baan>valid</baan>
+        <positie>-1</positie>
+        <type>auto</type>
+    </VOERTUIG>
+    <VOERTUIG>
+        <baan>valid</baan>
+        <positie>1001</positie>     <!--position is larger than road length-->
+        <type>auto</type>
+    </VOERTUIG>
+    <VOERTUIG>
+        <baan>test0</baan>      <!--roadname is not known-->
+        <positie>1</positie>
+        <type>auto</type>
+    </VOERTUIG>
+
+    <VOERTUIGGENERATOR>
+        <baan>test0</baan>      <!--road is not valid-->
+        <frequentie>1</frequentie>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+    <VOERTUIGGENERATOR>
+        <baan>valid</baan>
+        <frequentie>0</frequentie> <!--frequenty cannot be less or equal to zero-->
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+    <VOERTUIGGENERATOR>
+        <baan>valid</baan>
+        <frequentie>-1</frequentie>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+</ROOT>

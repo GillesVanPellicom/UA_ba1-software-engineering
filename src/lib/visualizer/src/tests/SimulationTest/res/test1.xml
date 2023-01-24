@@ -1,0 +1,24 @@
+<ROOT>
+    <BAAN>
+        <naam>Lange Kortneuslaan</naam>
+        <lengte>300</lengte>
+    </BAAN>
+
+    <VERKEERSLICHT>
+        <baan>Lange Kortneuslaan</baan>
+        <positie>50</positie>
+        <cyclus>10</cyclus>
+    </VERKEERSLICHT>
+
+    <VOERTUIGGENERATOR>
+        <baan>Lange Kortneuslaan</baan>
+        <frequentie>1</frequentie>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+
+    <VOERTUIGGENERATOR>
+        <baan>Lange Kortneuslaan</baan>
+        <frequentie>4</frequentie>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+</ROOT>

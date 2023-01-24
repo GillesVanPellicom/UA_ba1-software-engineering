@@ -1,0 +1,600 @@
+Time: 0.0166667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200
+--> speed: 0
+
+Time: 0.0333333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.001
+--> speed: 0.024
+
+Time: 0.05s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.002
+--> speed: 0.048
+
+Time: 0.0666667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.003
+--> speed: 0.072
+
+Time: 0.0833333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.005
+--> speed: 0.096
+
+Time: 0.1s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.007
+--> speed: 0.12
+
+Time: 0.116667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.01
+--> speed: 0.144
+
+Time: 0.133333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.013
+--> speed: 0.168
+
+Time: 0.15s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.016
+--> speed: 0.192
+
+Time: 0.166667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.02
+--> speed: 0.216
+
+Time: 0.183333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.024
+--> speed: 0.24
+
+Time: 0.2s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.029
+--> speed: 0.264
+
+Time: 0.216667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.034
+--> speed: 0.288
+
+Time: 0.233333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.039
+--> speed: 0.312
+
+Time: 0.25s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.045
+--> speed: 0.336
+
+Time: 0.266667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.051
+--> speed: 0.36
+
+Time: 0.283333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.058
+--> speed: 0.384
+
+Time: 0.3s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.065
+--> speed: 0.408
+
+Time: 0.316667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.072
+--> speed: 0.432
+
+Time: 0.333333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.08
+--> speed: 0.456
+
+Time: 0.35s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.088
+--> speed: 0.48
+
+Time: 0.366667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.097
+--> speed: 0.504
+
+Time: 0.383333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.106
+--> speed: 0.528
+
+Time: 0.4s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.115
+--> speed: 0.552
+
+Time: 0.416667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.125
+--> speed: 0.576
+
+Time: 0.433333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.135
+--> speed: 0.6
+
+Time: 0.45s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.146
+--> speed: 0.624
+
+Time: 0.466667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.157
+--> speed: 0.648
+
+Time: 0.483333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.168
+--> speed: 0.672
+
+Time: 0.5s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.18
+--> speed: 0.696
+
+Time: 0.516667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.192
+--> speed: 0.72
+
+Time: 0.533333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.205
+--> speed: 0.743999
+
+Time: 0.55s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.218
+--> speed: 0.767999
+
+Time: 0.566667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.231
+--> speed: 0.791999
+
+Time: 0.583333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.245
+--> speed: 0.815999
+
+Time: 0.6s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.259
+--> speed: 0.839999
+
+Time: 0.616667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.274
+--> speed: 0.863999
+
+Time: 0.633333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.289
+--> speed: 0.887999
+
+Time: 0.65s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.304
+--> speed: 0.911998
+
+Time: 0.666667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.32
+--> speed: 0.935998
+
+Time: 0.683333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.336
+--> speed: 0.959998
+
+Time: 0.7s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.353
+--> speed: 0.983998
+
+Time: 0.716667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.37
+--> speed: 1.008
+
+Time: 0.733333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.387
+--> speed: 1.032
+
+Time: 0.75s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.405
+--> speed: 1.056
+
+Time: 0.766667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.423
+--> speed: 1.08
+
+Time: 0.783333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.442
+--> speed: 1.104
+
+Time: 0.8s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.461
+--> speed: 1.128
+
+Time: 0.816667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.48
+--> speed: 1.15199
+
+Time: 0.833333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.5
+--> speed: 1.17599
+
+Time: 0.85s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.52
+--> speed: 1.19999
+
+Time: 0.866667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.541
+--> speed: 1.22399
+
+Time: 0.883333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.562
+--> speed: 1.24799
+
+Time: 0.9s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.583
+--> speed: 1.27199
+
+Time: 0.916667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.605
+--> speed: 1.29599
+
+Time: 0.933333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.627
+--> speed: 1.31999
+
+Time: 0.95s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.65
+--> speed: 1.34399
+
+Time: 0.966667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.673
+--> speed: 1.36799
+
+Time: 0.983333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.696
+--> speed: 1.39199
+
+Time: 1s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.72
+--> speed: 1.41599
+
+Time: 1.01667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.744
+--> speed: 1.43998
+
+Time: 1.03333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.769
+--> speed: 1.46398
+
+Time: 1.05s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.794
+--> speed: 1.48798
+
+Time: 1.06667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.819
+--> speed: 1.51198
+
+Time: 1.08333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.845
+--> speed: 1.53598
+
+Time: 1.1s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.871
+--> speed: 1.55998
+
+Time: 1.11667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.898
+--> speed: 1.58397
+
+Time: 1.13333s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.925
+--> speed: 1.60797
+
+Time: 1.15s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.952
+--> speed: 1.63197
+
+Time: 1.16667s
+Vehicle 1
+--> road: Corner Street
+--> position: 200.98
+--> speed: 1.65597
+
+Time: 1.18333s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.008
+--> speed: 1.67997
+
+Time: 1.2s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.037
+--> speed: 1.70396
+
+Time: 1.21667s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.066
+--> speed: 1.72796
+
+Time: 1.23333s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.095
+--> speed: 1.75196
+
+Time: 1.25s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.125
+--> speed: 1.77596
+
+Time: 1.26667s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.155
+--> speed: 1.79995
+
+Time: 1.28333s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.186
+--> speed: 1.82395
+
+Time: 1.3s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.217
+--> speed: 1.84795
+
+Time: 1.31667s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.248
+--> speed: 1.87194
+
+Time: 1.33333s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.28
+--> speed: 1.89594
+
+Time: 1.35s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.312
+--> speed: 1.91993
+
+Time: 1.36667s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.345
+--> speed: 1.94393
+
+Time: 1.38333s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.378
+--> speed: 1.96792
+
+Time: 1.4s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.411
+--> speed: 1.99192
+
+Time: 1.41667s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.445
+--> speed: 2.01591
+
+Time: 1.43333s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.479
+--> speed: 2.03991
+
+Time: 1.45s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.514
+--> speed: 2.0639
+
+Time: 1.46667s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.549
+--> speed: 2.0879
+
+Time: 1.48333s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.584
+--> speed: 2.11189
+
+Time: 1.5s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.62
+--> speed: 2.13589
+
+Time: 1.51667s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.656
+--> speed: 2.15988
+
+Time: 1.53333s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.693
+--> speed: 2.18387
+
+Time: 1.55s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.73
+--> speed: 2.20787
+
+Time: 1.56667s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.767
+--> speed: 2.23186
+
+Time: 1.58333s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.805
+--> speed: 2.25585
+
+Time: 1.6s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.843
+--> speed: 2.27984
+
+Time: 1.61667s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.882
+--> speed: 2.30383
+
+Time: 1.63333s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.921
+--> speed: 2.32782
+
+Time: 1.65s
+Vehicle 1
+--> road: Corner Street
+--> position: 201.96
+--> speed: 2.35182
+
+Time: 1.66667s
+Vehicle 1
+--> road: Corner Street
+--> position: 202
+--> speed: 2.37581
+

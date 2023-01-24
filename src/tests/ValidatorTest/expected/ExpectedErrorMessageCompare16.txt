@@ -1,0 +1,4 @@
+[XmlValidator] Cannot create CrossRoad on road that does not exist or that is not valid: on 'foo' at position 3.
+[XmlValidator] Cannot create CrossRoad on road that does not exist or that is not valid: on 'help' at position 4.
+[XmlValidator] Cannot create CrossRoad at a position that is outside the road (road length: 1000; roadName: test0; position: 10000).
+[XmlValidator] Cannot create CrossRoad at a position that is outside the road (road length: 200; roadName: test1; position: 1000).

@@ -1,0 +1,35 @@
+<ROOT>
+    <BAAN>
+        <naam>test0</naam>      <!-- cannot set name twice -->
+        <naam>test1</naam>
+        <lengte>100</lengte>    <!-- cannot set length twice -->
+        <lengte>1000</lengte>
+    </BAAN>
+
+    <VERKEERSLICHT>
+        <baan>test0</baan>      <!-- cannot set roadName twice -->
+        <baan>test0</baan>
+        <cyclus>20</cyclus>
+        <positie>10</positie>       <!-- cannot set position twice -->
+    </VERKEERSLICHT>
+
+    <VOERTUIG>
+        <baan>test0</baan>
+        <positie>10</positie>       <!-- cannot set position twice -->
+        <positie>20</positie>
+    </VOERTUIG>
+
+    <VOERTUIGGENERATOR>
+        <baan>test0</baan>
+        <frequentie>10</frequentie>     <!-- cannot set frequency twice -->
+        <frequentie>11</frequentie>
+    </VOERTUIGGENERATOR>
+
+    <BUSHALTE>
+        <baan>test0</baan>          <!-- cannot set roadname twice -->
+        <baan>test1</baan>
+        <positie>10</positie>
+        <wachttijd>10</wachttijd>   <!-- cannot set haltTime twice -->
+        <wachttijd>11</wachttijd>
+    </BUSHALTE>
+</ROOT>

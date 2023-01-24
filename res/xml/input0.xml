@@ -1,0 +1,62 @@
+<ROOT>
+    <BAAN>
+        <naam>road1</naam>
+        <lengte>400</lengte>
+    </BAAN>
+
+    <BAAN>
+        <naam>road2</naam>
+        <lengte>500</lengte>
+    </BAAN>
+
+    <VOERTUIGGENERATOR>
+        <baan>road1</baan>
+        <frequentie>10</frequentie>
+        <type>auto</type>
+    </VOERTUIGGENERATOR>
+
+    <KRUISPUNT>
+        <baan positie="200">road1</baan>
+        <baan positie="300">road2</baan>
+    </KRUISPUNT>
+    <KRUISPUNT>
+        <baan positie="205">road1</baan>
+        <baan positie="305">road2</baan>
+    </KRUISPUNT>
+    <KRUISPUNT>
+        <baan positie="210">road1</baan>
+        <baan positie="310">road2</baan>
+    </KRUISPUNT>
+    <KRUISPUNT>
+        <baan positie="215">road1</baan>
+        <baan positie="315">road2</baan>
+    </KRUISPUNT>
+    <KRUISPUNT>
+        <baan positie="220">road1</baan>
+        <baan positie="320">road2</baan>
+    </KRUISPUNT>
+    <KRUISPUNT>
+        <baan positie="225">road1</baan>
+        <baan positie="325">road2</baan>
+    </KRUISPUNT>
+    <KRUISPUNT>
+        <baan positie="230">road1</baan>
+        <baan positie="330">road2</baan>
+    </KRUISPUNT>
+    <KRUISPUNT>
+        <baan positie="235">road1</baan>
+        <baan positie="335">road2</baan>
+    </KRUISPUNT>
+    <KRUISPUNT>
+        <baan positie="240">road1</baan>
+        <baan positie="340">road2</baan>
+    </KRUISPUNT>
+    <KRUISPUNT>
+        <baan positie="245">road1</baan>
+        <baan positie="345">road2</baan>
+    </KRUISPUNT>
+    <KRUISPUNT>
+        <baan positie="250">road1</baan>
+        <baan positie="350">road2</baan>
+    </KRUISPUNT>
+</ROOT>

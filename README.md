@@ -33,6 +33,6 @@ find . -type f \( -name "*.h" -o -name "*.cpp" \) -not \( -path "./lib/gtest/*" 
 ```
 
 ### Visualizing
-The simulation can be visualized usin Jonathan's excellent visualizer.
+The simulation can be visualized using Jonathan's excellent visualizer.
 
 https://github.com/jonatcln/pse-traffic-simulation-visualizer
